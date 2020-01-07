@@ -1,0 +1,10 @@
+{
+	"menuItems": [
+
+		{
+			"pageId": "caseList",
+			"value": "Klantcases",
+			"icon": "sap-icon://folder"
+		}
+	]
+}

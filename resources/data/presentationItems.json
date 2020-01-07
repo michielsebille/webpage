@@ -1,0 +1,25 @@
+{
+	"presentationItems": [
+		{
+			"pageId"    : "presentation.jumbo.ppt1",
+			"client"    : "Jumbo",
+			"name"      : "Presentatie 1",
+		    "image"		: "resources/images/Jumbo.jpg",
+		    "ppt"		: "http://www.sraticongres.ro/download-files/uPoGPpb.ppt"
+		},
+		{
+			"pageId"    : "presentation.shell.ppt2",
+			"client"    : "Shell",
+			"name"      : "Presentatie 2",
+			"image"		: "resources/images/ShellLogo.jpg",
+			"ppt"		: "http://www.unm.edu/~unmvclib/powerpoint/pptexamples.ppt"
+		},
+		{
+			"pageId"    : "presentation.shell.ppt3",
+			"client"    : "Ziut",
+			"name"      : "Presentatie 3",
+			"image"		: "resources/images/Ziut.jpg",
+			"ppt"		: "http://www.unm.edu/~unmvclib/powerpoint/pptexamples.ppt"
+		}
+	]
+}

@@ -1,0 +1,146 @@
+.sapMText {
+	font-family: MaxLF !important;
+}
+
+.sapMShellBrandingBar {
+	background-color: #83dc80;
+}
+
+.sapMTile.sapMTileActive {
+	background: #eaf4e6 !important;
+}
+
+.sapUiBody {
+	background-color: #eaf4e6 !important;
+	display: block;
+	background-repeat:no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #000000;
+	overflow-y:hidden;
+	font-family: MaxLF;
+	/**font-family: font-family: 'Montserrat', sans-serif;
+	font-size: 13px;
+	font-weight: 700;**/
+	-webkit-tap-highlight-color: rgba(8,8,8,0);
+}
+
+.sapMGlobalBackgroundImage,.sapUiGlobalBackgroundColor {
+  background-color: #f9f9f9 !important;
+  background-image: none !important;
+}
+
+.sapMTC>.sapMTCPager>SPAN.sapMTCActive,
+.sapMCrslBulleted>span.sapMCrslActive,
+.sapMCrslHud .sapMCrslHudInner,
+.sapMTC .sapMTCScroller .sapMTCInner,
+.sapMBar-CTX :not(.sapMBtnDisabled)>.sapMBtnInner.sapMBtnActive,
+.sapMLIB.sapMLIBActive,
+.sapMIBar-CTX.sapMFooter-CTX :not(.sapMBtnDisabled)>.sapMBtnActive,
+.sapMSltPressed>.sapMSltArrow,
+.sapMSelectListItemBase.sapMSelectListItemBasePressed,
+.sapMSelectListItemBaseSelected {
+	background-color: #83dc80;
+}
+
+.sapMBtn:hover>.sapMBtnHoverable {
+	background-color: inherit;
+}
+
+.sapMITBSelected>.sapMITBContentArrow {
+	border-bottom-color: #83dc80;
+}
+
+:not(.sapMBtnDisabled)>.sapMBtnInner.sapMBtnActive,
+.sapMSltPressed:not(.sapMSltDisabled) {
+	background-color: #83dc80;
+	border-color: #83dc80;
+}
+
+.sap-desktop .sapMSlt:not(.sapMSltDisabled):focus,
+.sapMSltHoverable:hover {
+	border-color: #83dc80;
+}
+
+.sapMTC>.sapMTCPager>SPAN.sapMTCActive,
+.sapMCrslBulleted>span.sapMCrslActive,
+.sapMITBFilterDefault,
+.sapMITBTextOnly .sapMITBFilterDefault.sapMITBSelected>.sapMITBText {
+	color: #83dc80;
+}
+
+.sapUiMltPadRight {
+	padding: 0 10px 10px 0;
+}
+	
+.sapMStdTileTitle {
+	color: #55656c;
+	font-size: 16px;
+}
+
+.sapMStdTileNum {
+	font-family: MaxLF;
+	color: #55656c;
+	font-size: 32px;
+}
+
+.sapMTitle {
+	font-family: MaxLF;
+}
+
+.sapMTile {
+	font-family: MaxLF;
+	border: 2px solid #83dc80;
+	border-radius: 8px;
+	background-color: #ffffff;
+}
+
+.sapMSplitContainerMaster {
+	width: 210px;
+}
+
+.sapMStdTileIconDiv{
+	color: #ffba00;
+}	
+
+.sapMSLIImgIcon {
+	color: #ffba00;
+}
+
+.sapMBar.sapMPageHeader:before {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  border-top: 0.25rem solid #83dc80;
+  z-index: 7;
+}
+
+.sapMFocusable {
+	outline: 0px !important;
+	outline-offset: 0px !important;
+}
+
+.sapMCrsl:focus {
+	border: 0px;
+	outline: 0px !important;
+	outline-offset: 0px !important;
+}
+
+.sapMITBText {
+	outline: 0px !important;
+	outline-offset: 0px !important;
+}
+
+.sapMStdTileBottomRow {
+	background: #eaf4e6;
+	border-bottom: 2px solid #83dc80;
+	border-radius: 8px;
+}
+
+.sapMTCScrl>.sapMTCCnt>.sapMTile>.sapMTileContent>.sapMStdTileTopRow>.sapMStdTileIconDiv>.sapMImg {
+	width: auto !important;
+	height: auto !important;
+	max-width: 8rem !important;
+	max-height: 3.8rem !important;	
+}

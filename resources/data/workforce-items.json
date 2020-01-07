@@ -1,0 +1,304 @@
+{
+	"workforceItems": [
+		{
+			"pageId"			: "allard.van.der.ouw",
+			"firstName"			: "Allard",
+			"surName"			: "Ouw",
+			"surNamePrefix"		: "van der",
+			"image"				: "allard.van.der.ouw.jpg",
+			"title"				: "Medior Front-End Developer",
+			"cv"				: {
+				"name"				: "Allard van der Ouw",
+				"callingName"		: "Allard",
+				"dateOfBirth"		: "07-01-1988",
+				"residence"			: "Almere",
+				"email"				: "allard.van.der.ouw@oliver-it.nl",
+				"experienceFrom"	: "2010",
+				"languages"			: "Nederlands, Engels",
+				"educationShort"	: "Hogere Informatica, Fontys Hogeschool Eindhoven Bestuurlijke informatievoorziening",
+				"profile"			: "De heer Mozesz is afgestudeerd in 2004 als Bachelor of Information and Communication Technology. Na zijn studie is hij bij Ctac begonnen met een interne ABAP training. Hij kent SAP R/3 en ABAP en weet hierin zeker zijn weg te vinden. Na dit traject succesvol te hebben doorlopen is hij zich verder gaan specialiseren in alles wat met Java, HTML5, Sencha ExtJs, SAP UI5, Portals, Webshops en Netweaver CE te maken heeft. Hij beschikt over een grote en relevante Netweaver en R/3 bagage die hem breed inzetbaar maakt. De heer Mozesz heeft ervaring opgedaan bij diverse eindklanten zoals Getronics Pink Roccade, ministerie van V&W, Heineken, Aldipress, Sanoma, LBIO, Epson, Johnson & Johnson en PostNL, Tommy Hilfger.\n\nHij is bovendien een teamspeler die continu innoveert en waarbij de klant centraal staat. Samen met de klant tot de beste oplossing komen is het doel. Om dit te bereiken gebruikt hij niet alleen zijn Netweaver en frontend development kennis maar ook zijn communicatieve en sociale vaardigheden.\n\nInzetbaar als:\nSAP NetWeaver Developer, SAP NetWeaver Portal Consultant , SAP NetWeaver CE Developer, SAP Netweaver Technisch Architect,  SAP Netweaver Team Lead Portal en Java",
+				"education"			: {
+					"general"			: [
+						{
+							"period"		: "1999-2004",
+							"description"	: "Hogere Informatica, Fontys Hogeschool Eindhoven.\nSpecialisatie in de richting Bestuurlijke Informatie Voorziening.\nDiploma behaald in 2004."
+						},
+						{
+							"period"		: "1994-2000",
+							"description"	: "HAVO, Ds Pierson College, ‘s-Hertogenbosch.\nDiploma behaald in 1999."
+						}						
+					],
+					"specific"			: [
+						{
+							"period"		: "2004",
+							"description"	: "Interne opleiding (Ctac) SAP R/3 en ABAP programmeren."
+						},
+						{
+							"period"		: "2005",
+							"description"	: "SAP cursus JA310 Web Dynpro voor Java."
+						},
+						{
+							"period"		: "2005",
+							"description"	: "SAP cursus TEPD20 Enterprise Portal Developer."
+						},
+						{
+							"period"		: "2006",
+							"description"	: "SAP cursus EP300 KM & Collaboration"
+						},
+						{
+							"period"		: "2006-2013",
+							"description"	: "Jaarlijks bezoek aan SAP TechEd, een 3-daagse technische beurs georganiseerd door SAP waar lezingen en workshops worden gehouden, veelal gericht op de laatste ontwikkelingen binnen SAP NetWeaver."
+						}
+					],
+					"certificates"		: [
+						{
+							"period"		: "Juli 2005",
+							"description"	: "SAP Enterprise Portal EP6"
+						},
+						{
+							"period"		: "November 2009",
+							"description"	: "Prince 2 foundation"
+						}
+					],
+					"languages"			: [
+						{
+							"language"		: "Nederlands"
+						},
+						{
+							"language"		: "Engels"
+						}
+					]
+				},
+				"experience"		: [
+					{
+						"company"			: "Ziut",
+						"branche"			: "Straat verlichting onderhoud/beheer",
+						"function"			: "HTML5 Developer / CE Developer",
+						"periodFrom"		: "201306",
+						"periodTo"			: "heden",
+						"environment"		: "SAP Netweaver CE 7.3, Bitbucket, Juno Eclipse, Javascript, HTML5, REST webservices, CAF, Sencha ExtJS",
+						"description"		: "Het ontwikkelen van een Service portaal waarin service orders uit SAP verrijkt kunnen worden met informatie van de monteurs. Zowel de Ziut Back office als de monteurs kunnen o.a. de uitgevoerde werkzaamheden, verbruikte uren, materialen en materieel verantwoorden om in SAP in te dienen.\nHet ontwikkelen van een Aannemers portaal. De aannemer krijgt inzicht in zijn klussen en projecten. En kan de verantwoorde werkzaamheden daarin vastleggen."				
+					},
+					{
+						"company"			: "Zhaikmunai",
+						"branche"			: "Olie",
+						"function"			: "SAP Netweaver consultant",
+						"periodFrom"		: "201210",
+						"periodTo"			: "201301",
+						"environment"		: "SAP UI5, javascript SAP cloud portal, SAP Netweaver Cloud platform, SAP identity service provider",
+						"description"		: "Ontwikkelen van een ESS / MSS applicatie in de cloud op basis van SAP UI5 componenten. Employees krijgen inzicht via het portaal in o.a. salarisstroken, vakantiedagen, arbeidsvoorwaardelijke documenten. Daarnaast kunnen ze persoonlijke informatie erin onderhouden zoals telefoonnummer, adres en pasfoto’’s.\nManagers kunnen naast de ESS functionaliteit, de stamdata van alle employees inzien en aanpassen."						
+					},
+					{
+						"company"			: "Tommy Hilfiger",
+						"branche"			: "Retail/fashion",
+						"function"			: "Internet Sales Application developer",
+						"periodFrom"		: "201205",
+						"periodTo"			: "201305",
+						"environment"		: "SAP E-Commerce 5.0 webshop, NWDI, SAP Netweaver CE 7.2",
+						"description"		: "Het vertalen van business requirements naar mogelijke technische oplossingen inclusief bijbehorende ureninschattingen. Daarnaast het analyseren en oplossen van incidenten en het bouwen van changes t.b.v. de B2B webshop."						
+					}
+				]
+			}			
+		},
+		{
+			"pageId"			: "ardiles.mozesz",
+			"firstName"			: "Ardiles",
+			"surName"			: "Mozesz",
+			"surNamePrefix"		: "",
+			"image"				: "ardiles.mozesz.jpg",
+			"title"				: "Senior Front-End Developer",
+			"cv"				: {
+				"name"				: "A.R. Mozesz",
+				"callingName"		: "Ardiles",
+				"dateOfBirth"		: "26-03-1982",
+				"residence"			: "Rosmalen",
+				"email"				: "ardiles.mozesz@oliver-it.nl",
+				"experienceFrom"	: "2005",
+				"languages"			: "Nederlands, Engels",
+				"educationShort"	: "Hogere Informatica, Fontys Hogeschool Eindhoven Bestuurlijke informatievoorziening",
+				"profile"			: "De heer Mozesz is afgestudeerd in 2004 als Bachelor of Information and Communication Technology. Na zijn studie is hij bij Ctac begonnen met een interne ABAP training. Hij kent SAP R/3 en ABAP en weet hierin zeker zijn weg te vinden. Na dit traject succesvol te hebben doorlopen is hij zich verder gaan specialiseren in alles wat met Java, HTML5, Sencha ExtJs, SAP UI5, Portals, Webshops en Netweaver CE te maken heeft. Hij beschikt over een grote en relevante Netweaver en R/3 bagage die hem breed inzetbaar maakt. De heer Mozesz heeft ervaring opgedaan bij diverse eindklanten zoals Getronics Pink Roccade, ministerie van V&W, Heineken, Aldipress, Sanoma, LBIO, Epson, Johnson & Johnson en PostNL, Tommy Hilfger.\n\nHij is bovendien een teamspeler die continu innoveert en waarbij de klant centraal staat. Samen met de klant tot de beste oplossing komen is het doel. Om dit te bereiken gebruikt hij niet alleen zijn Netweaver en frontend development kennis maar ook zijn communicatieve en sociale vaardigheden.\n\nInzetbaar als:\nSAP NetWeaver Developer, SAP NetWeaver Portal Consultant , SAP NetWeaver CE Developer, SAP Netweaver Technisch Architect,  SAP Netweaver Team Lead Portal en Java",
+				"education"			: {
+					"general"			: [
+						{
+							"period"		: "1999-2004",
+							"description"	: "Hogere Informatica, Fontys Hogeschool Eindhoven.\nSpecialisatie in de richting Bestuurlijke Informatie Voorziening.\nDiploma behaald in 2004."
+						},
+						{
+							"period"		: "1994-2000",
+							"description"	: "HAVO, Ds Pierson College, ‘s-Hertogenbosch.\nDiploma behaald in 1999."
+						}						
+					],
+					"specific"			: [
+						{
+							"period"		: "2004",
+							"description"	: "Interne opleiding (Ctac) SAP R/3 en ABAP programmeren."
+						},
+						{
+							"period"		: "2005",
+							"description"	: "SAP cursus JA310 Web Dynpro voor Java."
+						},
+						{
+							"period"		: "2005",
+							"description"	: "SAP cursus TEPD20 Enterprise Portal Developer."
+						},
+						{
+							"period"		: "2006",
+							"description"	: "SAP cursus EP300 KM & Collaboration"
+						},
+						{
+							"period"		: "2006-2013",
+							"description"	: "Jaarlijks bezoek aan SAP TechEd, een 3-daagse technische beurs georganiseerd door SAP waar lezingen en workshops worden gehouden, veelal gericht op de laatste ontwikkelingen binnen SAP NetWeaver."
+						}
+					],
+					"certificates"		: [
+						{
+							"period"		: "Juli 2005",
+							"description"	: "SAP Enterprise Portal EP6"
+						},
+						{
+							"period"		: "November 2009",
+							"description"	: "Prince 2 foundation"
+						}
+					],
+					"languages"			: [
+						{
+							"language"		: "Nederlands"
+						},
+						{
+							"language"		: "Engels"
+						}
+					]
+				},
+				"experience"		: [
+					{
+						"company"			: "Ziut",
+						"branche"			: "Straat verlichting onderhoud/beheer",
+						"function"			: "HTML5 Developer / CE Developer",
+						"periodFrom"		: "201306",
+						"periodTo"			: "heden",
+						"environment"		: "SAP Netweaver CE 7.3, Bitbucket, Juno Eclipse, Javascript, HTML5, REST webservices, CAF, Sencha ExtJS",
+						"description"		: "Het ontwikkelen van een Service portaal waarin service orders uit SAP verrijkt kunnen worden met informatie van de monteurs. Zowel de Ziut Back office als de monteurs kunnen o.a. de uitgevoerde werkzaamheden, verbruikte uren, materialen en materieel verantwoorden om in SAP in te dienen.\nHet ontwikkelen van een Aannemers portaal. De aannemer krijgt inzicht in zijn klussen en projecten. En kan de verantwoorde werkzaamheden daarin vastleggen."				
+					},
+					{
+						"company"			: "Zhaikmunai",
+						"branche"			: "Olie",
+						"function"			: "SAP Netweaver consultant",
+						"periodFrom"		: "201210",
+						"periodTo"			: "201301",
+						"environment"		: "SAP UI5, javascript SAP cloud portal, SAP Netweaver Cloud platform, SAP identity service provider",
+						"description"		: "Ontwikkelen van een ESS / MSS applicatie in de cloud op basis van SAP UI5 componenten. Employees krijgen inzicht via het portaal in o.a. salarisstroken, vakantiedagen, arbeidsvoorwaardelijke documenten. Daarnaast kunnen ze persoonlijke informatie erin onderhouden zoals telefoonnummer, adres en pasfoto’’s.\nManagers kunnen naast de ESS functionaliteit, de stamdata van alle employees inzien en aanpassen."						
+					},
+					{
+						"company"			: "Tommy Hilfiger",
+						"branche"			: "Retail/fashion",
+						"function"			: "Internet Sales Application developer",
+						"periodFrom"		: "201205",
+						"periodTo"			: "201305",
+						"environment"		: "SAP E-Commerce 5.0 webshop, NWDI, SAP Netweaver CE 7.2",
+						"description"		: "Het vertalen van business requirements naar mogelijke technische oplossingen inclusief bijbehorende ureninschattingen. Daarnaast het analyseren en oplossen van incidenten en het bouwen van changes t.b.v. de B2B webshop."						
+					}
+				]
+			}
+		},
+		{
+			"pageId"			: "willem.janssen",
+			"firstName"			: "Willem",
+			"surName"			: "Janssen",
+			"surNamePrefix"		: "",
+			"image"				: "willem.janssen.jpg",
+			"title"				: "Senior Projectlead",
+			"cv"				: {
+				"name"				: "Willem Janssen",
+				"callingName"		: "Willem",
+				"dateOfBirth"		: "01-01-1900",
+				"residence"			: "Amsterdam",
+				"email"				: "willem.hanssen@oliver-it.nl",
+				"experienceFrom"	: "1950",
+				"languages"			: "Nederlands, Engels",
+				"educationShort"	: "Hogere Informatica, Fontys Hogeschool Eindhoven Bestuurlijke informatievoorziening",
+				"profile"			: "De heer Mozesz is afgestudeerd in 2004 als Bachelor of Information and Communication Technology. Na zijn studie is hij bij Ctac begonnen met een interne ABAP training. Hij kent SAP R/3 en ABAP en weet hierin zeker zijn weg te vinden. Na dit traject succesvol te hebben doorlopen is hij zich verder gaan specialiseren in alles wat met Java, HTML5, Sencha ExtJs, SAP UI5, Portals, Webshops en Netweaver CE te maken heeft. Hij beschikt over een grote en relevante Netweaver en R/3 bagage die hem breed inzetbaar maakt. De heer Mozesz heeft ervaring opgedaan bij diverse eindklanten zoals Getronics Pink Roccade, ministerie van V&W, Heineken, Aldipress, Sanoma, LBIO, Epson, Johnson & Johnson en PostNL, Tommy Hilfger.\n\nHij is bovendien een teamspeler die continu innoveert en waarbij de klant centraal staat. Samen met de klant tot de beste oplossing komen is het doel. Om dit te bereiken gebruikt hij niet alleen zijn Netweaver en frontend development kennis maar ook zijn communicatieve en sociale vaardigheden.\n\nInzetbaar als:\nSAP NetWeaver Developer, SAP NetWeaver Portal Consultant , SAP NetWeaver CE Developer, SAP Netweaver Technisch Architect,  SAP Netweaver Team Lead Portal en Java",
+				"education"			: {
+					"general"			: [
+						{
+							"period"		: "1999-2004",
+							"description"	: "Hogere Informatica, Fontys Hogeschool Eindhoven.\nSpecialisatie in de richting Bestuurlijke Informatie Voorziening.\nDiploma behaald in 2004."
+						},
+						{
+							"period"		: "1994-2000",
+							"description"	: "HAVO, Ds Pierson College, ‘s-Hertogenbosch.\nDiploma behaald in 1999."
+						}						
+					],
+					"specific"			: [
+						{
+							"period"		: "2004",
+							"description"	: "Interne opleiding (Ctac) SAP R/3 en ABAP programmeren."
+						},
+						{
+							"period"		: "2005",
+							"description"	: "SAP cursus JA310 Web Dynpro voor Java."
+						},
+						{
+							"period"		: "2005",
+							"description"	: "SAP cursus TEPD20 Enterprise Portal Developer."
+						},
+						{
+							"period"		: "2006",
+							"description"	: "SAP cursus EP300 KM & Collaboration"
+						},
+						{
+							"period"		: "2006-2013",
+							"description"	: "Jaarlijks bezoek aan SAP TechEd, een 3-daagse technische beurs georganiseerd door SAP waar lezingen en workshops worden gehouden, veelal gericht op de laatste ontwikkelingen binnen SAP NetWeaver."
+						}
+					],
+					"certificates"		: [
+						{
+							"period"		: "Juli 2005",
+							"description"	: "SAP Enterprise Portal EP6"
+						},
+						{
+							"period"		: "November 2009",
+							"description"	: "Prince 2 foundation"
+						}
+					],
+					"languages"			: [
+						{
+							"language"		: "Nederlands"
+						},
+						{
+							"language"		: "Engels"
+						}
+					]
+				},
+				"experience"		: [
+					{
+						"company"			: "Ziut",
+						"branche"			: "Straat verlichting onderhoud/beheer",
+						"function"			: "HTML5 Developer / CE Developer",
+						"periodFrom"		: "201306",
+						"periodTo"			: "heden",
+						"environment"		: "SAP Netweaver CE 7.3, Bitbucket, Juno Eclipse, Javascript, HTML5, REST webservices, CAF, Sencha ExtJS",
+						"description"		: "Het ontwikkelen van een Service portaal waarin service orders uit SAP verrijkt kunnen worden met informatie van de monteurs. Zowel de Ziut Back office als de monteurs kunnen o.a. de uitgevoerde werkzaamheden, verbruikte uren, materialen en materieel verantwoorden om in SAP in te dienen.\nHet ontwikkelen van een Aannemers portaal. De aannemer krijgt inzicht in zijn klussen en projecten. En kan de verantwoorde werkzaamheden daarin vastleggen."				
+					},
+					{
+						"company"			: "Zhaikmunai",
+						"branche"			: "Olie",
+						"function"			: "SAP Netweaver consultant",
+						"periodFrom"		: "201210",
+						"periodTo"			: "201301",
+						"environment"		: "SAP UI5, javascript SAP cloud portal, SAP Netweaver Cloud platform, SAP identity service provider",
+						"description"		: "Ontwikkelen van een ESS / MSS applicatie in de cloud op basis van SAP UI5 componenten. Employees krijgen inzicht via het portaal in o.a. salarisstroken, vakantiedagen, arbeidsvoorwaardelijke documenten. Daarnaast kunnen ze persoonlijke informatie erin onderhouden zoals telefoonnummer, adres en pasfoto’’s.\nManagers kunnen naast de ESS functionaliteit, de stamdata van alle employees inzien en aanpassen."						
+					},
+					{
+						"company"			: "Tommy Hilfiger",
+						"branche"			: "Retail/fashion",
+						"function"			: "Internet Sales Application developer",
+						"periodFrom"		: "201205",
+						"periodTo"			: "201305",
+						"environment"		: "SAP E-Commerce 5.0 webshop, NWDI, SAP Netweaver CE 7.2",
+						"description"		: "Het vertalen van business requirements naar mogelijke technische oplossingen inclusief bijbehorende ureninschattingen. Daarnaast het analyseren en oplossen van incidenten en het bouwen van changes t.b.v. de B2B webshop."						
+					}
+				]
+			}			
+		}	
+	]
+}

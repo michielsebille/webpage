@@ -1,5 +1,43 @@
-<html>
-<body>
-	<a href="fluviuswfm://">Klik hier</a>
-</body>
+<!DOCTYPE HTML>
+<html manifest2="cache.manifest">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+
+		<link type="image/x-icon" href="resources/images/oliver-o.png" rel="shortcut icon" />
+		<link type="image/x-icon" href="resources/images/oliver-o.png" rel="icon" />
+		<link rel="apple-touch-icon" href="resources/images/oliver-logo-ballen.png?v2"/>
+		
+		<script src="openui5/sap-ui-core.js"
+				id="sap-ui-bootstrap"
+				data-sap-ui-libs="sap.m"
+				data-sap-ui-theme="sap_bluecrystal"
+				data-sap-ui-language="nl">
+		</script>
+        <script src="resources/scripts/underscore.js"></script>
+        <script src="resources/scripts/q.js"></script>
+
+		<link href="resources/css/saleskit-openui5.css" rel="stylesheet" type="text/css">
+		<link href="resources/css/saleskit.css" rel="stylesheet" type="text/css">
+		
+		<script>
+			sap.ui.localResources("app");
+
+			var oView = sap.ui.view({
+				id:"application", 
+				viewName:"app.view.application",
+				type : sap.ui.core.mvc.ViewType.JS
+			});
+		
+			oView.placeAt("content"); 
+		</script>
+		
+		<title>Oliver Referentieprojecten</title>
+	</head>
+	<body class="sapUiBody" role="application">
+		<div id="wrapper">
+		    <div id="native-header" style="height: 30px; background: #fff;"></div>
+		    <div id="content" style="height: calc(100% - 30px); height: -o-calc(100% - 30px); height: -webkit-calc(100% - 30px); height: -moz-calc(100% - 30px);"></div>
+		</div>
+	</body>
 </html>

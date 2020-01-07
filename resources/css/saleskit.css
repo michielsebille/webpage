@@ -1,0 +1,101 @@
+@font-face {
+	font-family: MaxLF;
+	src: url("../font/MaxLF-Regular.otf") format("opentype");
+}
+
+.content-block {
+	border-radius: 5px;
+	border: 2px solid #83dc80;
+	padding: 0.2rem;
+	margin: 0.2rem;
+	background: #fff;
+}
+
+.content-block-green {
+	background: #eaf4e6;
+}
+
+.content-block-50 {
+	width: 50%;
+}
+
+.content-block-100 {
+	width: 100%;
+}
+
+.content-block-title {
+	width: 100%;
+	color: #47565d !important;
+	text-transform: uppercase;
+	height: 2rem;
+	line-height: 2rem;
+}
+
+.content-block>.sapMFlexItem {
+	width: 100%;
+}
+
+.first-flex-item {
+	padding: 0.1rem;
+}
+
+#case-detail-content {
+	margin: 1rem;
+}
+
+#application-split-app-MasterBtn,
+#application-split-app-Master {
+	display: none;
+}
+
+.application-bar-button-back {
+	margin-left: 0rem !important;
+}
+
+.application-subheader {
+	background-color: #ffb900 !important;
+	background: #ffb900 url(../images/orange-bg.png) no-repeat  !important;
+}
+
+.application-subheader-title {
+	color: #fff !important;
+	text-transform: uppercase;
+}
+
+#case-list-filter-button-img {
+	color: #fff;
+}
+
+.case-detail-image {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.case-detail-tile,
+.sap-phone .sapMCustomTile {
+	height: 9rem;
+	width: 12rem;
+	margin-left: 0.1rem;
+	margin-right: 0.1rem;
+}
+
+.case-detail-tile>.sapMCustomTileContent {
+	text-align: center
+}
+
+.application-bar.sapMBar.sapMPageHeader{
+	background: #ffffff;
+}
+
+.page-background.sapMPageBgStandard {
+	background-image: url(../images/bg-orange.png);
+	background-repeat:no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;		
+}
+
+:focus {
+	outline: 0px !important;
+	outline-offset: 0px !important;
+}

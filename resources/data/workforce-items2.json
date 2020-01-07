@@ -1,0 +1,480 @@
+{
+	"workforceItems": [
+		{
+			"pageId"			: "lars.oosterom",
+			"image"				: "",
+			"name"				: "Lars Oosterom",
+			"title"				: "Projectleider",
+			"dateOfBirth"		: "01-01-1971",
+			"roleDescription"	: "Lars Oosterom is een Projectleider met ervaring in meerdere complexe ondernemingen zowel nationaal als internationaal waar de focus ligt op het behalen van business doelstellingen. Zijn meest recente rollen in de afgelopen periode zijn projectleider, business consultant, proces implementatie manager en Scrummaster.",
+			"profile"			: "Kenmerkende eigenschappen van Lars zijn; ondernemend, analytisch, doelgericht, stressbestendig, gedreven met uitstekende communi- catievevaardigheden. Lars slaat bruggen tussen mensen en afdelingen en door zijn pragmatische manier van kijken slaat hij issues plat tot het werkelijke probleem. Denkend vanuit processen en samenwerkend met IT en business, vertaalt hij de wensen om samen naar het gemeenschappelijke resultaat te werken en deze te behalen. Coachen van een hockeyelftal en golf zijn de bezigheden in zijn vrije tijd.",
+			"competences"		: {
+				"expertises"		: [
+					{
+						"value"			: "Projectleider"
+					},
+					{
+						"value"			: "Processen"
+					},
+					{
+						"value"			: "Webportalen"
+					}
+				],
+				"experiences"		: [
+					{
+						"value"		: "SAP"
+					},
+					{
+						"value"		: "CRM"
+					},
+					{
+						"value"		: "Architectuur"
+					}
+				],
+				"knowledges"		: [
+					{
+						"value"			: "SAP Interfacing"
+					},
+					{
+						"value"			: "SAP Testing"
+					}					
+				]
+			},
+			"clients"			: [
+				{
+					"client"			: "Ben/T-Mobile"
+				},
+				{
+					"client"			: "Facilicom"
+				},
+				{
+					"client"			: "Post NL"
+				}
+			],
+			"education"			: {
+				"general"			: [
+					{
+						"period"		: "1999-2004",
+						"description"	: "Hogere Informatica, Fontys Hogeschool Eindhoven.\nSpecialisatie in de richting Bestuurlijke Informatie Voorziening.\nDiploma behaald in 2004."
+					},
+					{
+						"period"		: "1994-2000",
+						"description"	: "HAVO, Ds Pierson College, ‘s-Hertogenbosch.\nDiploma behaald in 1999."
+					}						
+				],
+				"specific"			: [
+					{
+						"period"		: "2004",
+						"description"	: "Interne opleiding (Ctac) SAP R/3 en ABAP programmeren."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus JA310 Web Dynpro voor Java."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus TEPD20 Enterprise Portal Developer."
+					},
+					{
+						"period"		: "2006",
+						"description"	: "SAP cursus EP300 KM & Collaboration"
+					},
+					{
+						"period"		: "2006-2013",
+						"description"	: "Jaarlijks bezoek aan SAP TechEd, een 3-daagse technische beurs georganiseerd door SAP waar lezingen en workshops worden gehouden, veelal gericht op de laatste ontwikkelingen binnen SAP NetWeaver."
+					}
+				],
+				"certificates"		: [
+					{
+						"period"		: "2005",
+						"description"	: "SAP Enterprise Portal EP6"
+					},
+					{
+						"period"		: "2009",
+						"description"	: "Prince 2 foundation"
+					}
+				]
+			},
+			"workExperience"		: [
+				{
+					"company"			: "Ziut",
+					"role"				: "HTML5 Developer / CE Developer",
+					"periodFrom"		: "201306",
+					"periodTo"			: "heden",
+					"description"		: "Het ontwikkelen van een Service portaal waarin service orders uit SAP verrijkt kunnen worden met informatie van de monteurs. Zowel de Ziut Back office als de monteurs kunnen o.a. de uitgevoerde werkzaamheden, verbruikte uren, materialen en materieel verantwoorden om in SAP in te dienen.\nHet ontwikkelen van een Aannemers portaal. De aannemer krijgt inzicht in zijn klussen en projecten. En kan de verantwoorde werkzaamheden daarin vastleggen."				
+				},
+				{
+					"company"			: "Zhaikmunai",
+					"role"				: "SAP Netweaver consultant",
+					"periodFrom"		: "201210",
+					"periodTo"			: "201301",
+					"description"		: "Ontwikkelen van een ESS / MSS applicatie in de cloud op basis van SAP UI5 componenten. Employees krijgen inzicht via het portaal in o.a. salarisstroken, vakantiedagen, arbeidsvoorwaardelijke documenten. Daarnaast kunnen ze persoonlijke informatie erin onderhouden zoals telefoonnummer, adres en pasfoto’’s.\nManagers kunnen naast de ESS functionaliteit, de stamdata van alle employees inzien en aanpassen."						
+				},
+				{
+					"company"			: "Tommy Hilfiger",
+					"role"				: "Internet Sales Application developer",
+					"periodFrom"		: "201205",
+					"periodTo"			: "201305",
+					"description"		: "Het vertalen van business requirements naar mogelijke technische oplossingen inclusief bijbehorende ureninschattingen. Daarnaast het analyseren en oplossen van incidenten en het bouwen van changes t.b.v. de B2B webshop."						
+				}
+			]
+		},
+		{
+			"pageId"			: "allard.van.der.ouw",
+			"image"				: "allard.van.der.ouw.jpg",
+			"name"				: "Allard van der Ouw",
+			"title"				: "Medior Front-End Developer",
+			"dateOfBirth"		: "07-01-1988",
+			"roleDescription"	: "Lars Oosterom is een Projectleider met ervaring in meerdere complexe ondernemingen zowel nationaal als internationaal waar de focus ligt op het behalen van business doelstellingen. Zijn meest recente rollen in de afgelopen periode zijn projectleider, business consultant, proces implementatie manager en Scrummaster.",
+			"profile"			: "Kenmerkende eigenschappen van Lars zijn; ondernemend, analytisch, doelgericht, stressbestendig, gedreven met uitstekende communi- catievevaardigheden. Lars slaat bruggen tussen mensen en afdelingen en door zijn pragmatische manier van kijken slaat hij issues plat tot het werkelijke probleem. Denkend vanuit processen en samenwerkend met IT en business, vertaalt hij de wensen om samen naar het gemeenschappelijke resultaat te werken en deze te behalen. Coachen van een hockeyelftal en golf zijn de bezigheden in zijn vrije tijd.",
+			"competences"		: {
+				"expertises"		: [
+					{
+						"value"			: "Projectleider"
+					},
+					{
+						"value"			: "Processen"
+					},
+					{
+						"value"			: "Webportalen"
+					}
+				],
+				"experiences"		: [
+					{
+						"value"		: "SAP"
+					},
+					{
+						"value"		: "CRM"
+					},
+					{
+						"value"		: "Architectuur"
+					}
+				],
+				"knowledges"		: [
+					{
+						"value"			: "SAP Interfacing"
+					},
+					{
+						"value"			: "SAP Testing"
+					}					
+				]
+			},
+			"clients"			: [
+				{
+					"client"			: "Ben/T-Mobile"
+				},
+				{
+					"client"			: "Facilicom"
+				},
+				{
+					"client"			: "Post NL"
+				}
+			],
+			"education"			: {
+				"general"			: [
+					{
+						"period"		: "1999-2004",
+						"description"	: "Hogere Informatica, Fontys Hogeschool Eindhoven.\nSpecialisatie in de richting Bestuurlijke Informatie Voorziening.\nDiploma behaald in 2004."
+					},
+					{
+						"period"		: "1994-2000",
+						"description"	: "HAVO, Ds Pierson College, ‘s-Hertogenbosch.\nDiploma behaald in 1999."
+					}						
+				],
+				"specific"			: [
+					{
+						"period"		: "2004",
+						"description"	: "Interne opleiding (Ctac) SAP R/3 en ABAP programmeren."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus JA310 Web Dynpro voor Java."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus TEPD20 Enterprise Portal Developer."
+					},
+					{
+						"period"		: "2006",
+						"description"	: "SAP cursus EP300 KM & Collaboration"
+					},
+					{
+						"period"		: "2006-2013",
+						"description"	: "Jaarlijks bezoek aan SAP TechEd, een 3-daagse technische beurs georganiseerd door SAP waar lezingen en workshops worden gehouden, veelal gericht op de laatste ontwikkelingen binnen SAP NetWeaver."
+					}
+				],
+				"certificates"		: [
+					{
+						"period"		: "2005",
+						"description"	: "SAP Enterprise Portal EP6"
+					},
+					{
+						"period"		: "2009",
+						"description"	: "Prince 2 foundation"
+					}
+				]
+			},
+			"workExperience"		: [
+				{
+					"company"			: "Ziut",
+					"role"				: "HTML5 Developer / CE Developer",
+					"periodFrom"		: "201306",
+					"periodTo"			: "heden",
+					"description"		: "Het ontwikkelen van een Service portaal waarin service orders uit SAP verrijkt kunnen worden met informatie van de monteurs. Zowel de Ziut Back office als de monteurs kunnen o.a. de uitgevoerde werkzaamheden, verbruikte uren, materialen en materieel verantwoorden om in SAP in te dienen.\nHet ontwikkelen van een Aannemers portaal. De aannemer krijgt inzicht in zijn klussen en projecten. En kan de verantwoorde werkzaamheden daarin vastleggen."				
+				},
+				{
+					"company"			: "Zhaikmunai",
+					"role"				: "SAP Netweaver consultant",
+					"periodFrom"		: "201210",
+					"periodTo"			: "201301",
+					"description"		: "Ontwikkelen van een ESS / MSS applicatie in de cloud op basis van SAP UI5 componenten. Employees krijgen inzicht via het portaal in o.a. salarisstroken, vakantiedagen, arbeidsvoorwaardelijke documenten. Daarnaast kunnen ze persoonlijke informatie erin onderhouden zoals telefoonnummer, adres en pasfoto’’s.\nManagers kunnen naast de ESS functionaliteit, de stamdata van alle employees inzien en aanpassen."						
+				},
+				{
+					"company"			: "Tommy Hilfiger",
+					"role"				: "Internet Sales Application developer",
+					"periodFrom"		: "201205",
+					"periodTo"			: "201305",
+					"description"		: "Het vertalen van business requirements naar mogelijke technische oplossingen inclusief bijbehorende ureninschattingen. Daarnaast het analyseren en oplossen van incidenten en het bouwen van changes t.b.v. de B2B webshop."						
+				}
+			]
+		},
+		{
+			"pageId"			: "willem.janssen",
+			"image"				: "willem.janssen.jpg",
+			"name"				: "Willem Janssen",
+			"title"				: "Projectleider",
+			"dateOfBirth"		: "01-01-1971",
+			"roleDescription"	: "Lars Oosterom is een Projectleider met ervaring in meerdere complexe ondernemingen zowel nationaal als internationaal waar de focus ligt op het behalen van business doelstellingen. Zijn meest recente rollen in de afgelopen periode zijn projectleider, business consultant, proces implementatie manager en Scrummaster.",
+			"profile"			: "Kenmerkende eigenschappen van Lars zijn; ondernemend, analytisch, doelgericht, stressbestendig, gedreven met uitstekende communi- catievevaardigheden. Lars slaat bruggen tussen mensen en afdelingen en door zijn pragmatische manier van kijken slaat hij issues plat tot het werkelijke probleem. Denkend vanuit processen en samenwerkend met IT en business, vertaalt hij de wensen om samen naar het gemeenschappelijke resultaat te werken en deze te behalen. Coachen van een hockeyelftal en golf zijn de bezigheden in zijn vrije tijd.",
+			"competences"		: {
+				"expertises"		: [
+					{
+						"value"			: "Projectleider"
+					},
+					{
+						"value"			: "Processen"
+					},
+					{
+						"value"			: "Webportalen"
+					}
+				],
+				"experiences"		: [
+					{
+						"value"		: "SAP"
+					},
+					{
+						"value"		: "CRM"
+					},
+					{
+						"value"		: "Architectuur"
+					}
+				],
+				"knowledges"		: [
+					{
+						"value"			: "SAP Interfacing"
+					},
+					{
+						"value"			: "SAP Testing"
+					}					
+				]
+			},
+			"clients"			: [
+				{
+					"client"			: "Ben/T-Mobile"
+				},
+				{
+					"client"			: "Facilicom"
+				},
+				{
+					"client"			: "Post NL"
+				}
+			],
+			"education"			: {
+				"general"			: [
+					{
+						"period"		: "1999-2004",
+						"description"	: "Hogere Informatica, Fontys Hogeschool Eindhoven.\nSpecialisatie in de richting Bestuurlijke Informatie Voorziening.\nDiploma behaald in 2004."
+					},
+					{
+						"period"		: "1994-2000",
+						"description"	: "HAVO, Ds Pierson College, ‘s-Hertogenbosch.\nDiploma behaald in 1999."
+					}						
+				],
+				"specific"			: [
+					{
+						"period"		: "2004",
+						"description"	: "Interne opleiding (Ctac) SAP R/3 en ABAP programmeren."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus JA310 Web Dynpro voor Java."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus TEPD20 Enterprise Portal Developer."
+					},
+					{
+						"period"		: "2006",
+						"description"	: "SAP cursus EP300 KM & Collaboration"
+					},
+					{
+						"period"		: "2006-2013",
+						"description"	: "Jaarlijks bezoek aan SAP TechEd, een 3-daagse technische beurs georganiseerd door SAP waar lezingen en workshops worden gehouden, veelal gericht op de laatste ontwikkelingen binnen SAP NetWeaver."
+					}
+				],
+				"certificates"		: [
+					{
+						"period"		: "2005",
+						"description"	: "SAP Enterprise Portal EP6"
+					},
+					{
+						"period"		: "2009",
+						"description"	: "Prince 2 foundation"
+					}
+				]
+			},
+			"workExperience"		: [
+				{
+					"company"			: "Ziut",
+					"role"				: "HTML5 Developer / CE Developer",
+					"periodFrom"		: "201306",
+					"periodTo"			: "heden",
+					"description"		: "Het ontwikkelen van een Service portaal waarin service orders uit SAP verrijkt kunnen worden met informatie van de monteurs. Zowel de Ziut Back office als de monteurs kunnen o.a. de uitgevoerde werkzaamheden, verbruikte uren, materialen en materieel verantwoorden om in SAP in te dienen.\nHet ontwikkelen van een Aannemers portaal. De aannemer krijgt inzicht in zijn klussen en projecten. En kan de verantwoorde werkzaamheden daarin vastleggen."				
+				},
+				{
+					"company"			: "Zhaikmunai",
+					"role"				: "SAP Netweaver consultant",
+					"periodFrom"		: "201210",
+					"periodTo"			: "201301",
+					"description"		: "Ontwikkelen van een ESS / MSS applicatie in de cloud op basis van SAP UI5 componenten. Employees krijgen inzicht via het portaal in o.a. salarisstroken, vakantiedagen, arbeidsvoorwaardelijke documenten. Daarnaast kunnen ze persoonlijke informatie erin onderhouden zoals telefoonnummer, adres en pasfoto’’s.\nManagers kunnen naast de ESS functionaliteit, de stamdata van alle employees inzien en aanpassen."						
+				},
+				{
+					"company"			: "Tommy Hilfiger",
+					"role"				: "Internet Sales Application developer",
+					"periodFrom"		: "201205",
+					"periodTo"			: "201305",
+					"description"		: "Het vertalen van business requirements naar mogelijke technische oplossingen inclusief bijbehorende ureninschattingen. Daarnaast het analyseren en oplossen van incidenten en het bouwen van changes t.b.v. de B2B webshop."						
+				}
+			]
+		},
+		{
+			"pageId"			: "ardiles.mozesz",
+			"image"				: "ardiles.mozesz.jpg",
+			"name"				: "Ardiles Mozesz",
+			"title"				: "Senior Front-End Developer",
+			"dateOfBirth"		: "26-03-1982",
+			"roleDescription"	: "Lars Oosterom is een Projectleider met ervaring in meerdere complexe ondernemingen zowel nationaal als internationaal waar de focus ligt op het behalen van business doelstellingen. Zijn meest recente rollen in de afgelopen periode zijn projectleider, business consultant, proces implementatie manager en Scrummaster.",
+			"profile"			: "Kenmerkende eigenschappen van Lars zijn; ondernemend, analytisch, doelgericht, stressbestendig, gedreven met uitstekende communi- catievevaardigheden. Lars slaat bruggen tussen mensen en afdelingen en door zijn pragmatische manier van kijken slaat hij issues plat tot het werkelijke probleem. Denkend vanuit processen en samenwerkend met IT en business, vertaalt hij de wensen om samen naar het gemeenschappelijke resultaat te werken en deze te behalen. Coachen van een hockeyelftal en golf zijn de bezigheden in zijn vrije tijd.",
+			"competences"		: {
+				"expertises"		: [
+					{
+						"value"			: "Projectleider"
+					},
+					{
+						"value"			: "Processen"
+					},
+					{
+						"value"			: "Webportalen"
+					}
+				],
+				"experiences"		: [
+					{
+						"value"		: "SAP"
+					},
+					{
+						"value"		: "CRM"
+					},
+					{
+						"value"		: "Architectuur"
+					}
+				],
+				"knowledges"		: [
+					{
+						"value"			: "SAP Interfacing"
+					},
+					{
+						"value"			: "SAP Testing"
+					}					
+				]
+			},
+			"clients"			: [
+				{
+					"client"			: "Ben/T-Mobile"
+				},
+				{
+					"client"			: "Facilicom"
+				},
+				{
+					"client"			: "Post NL"
+				}
+			],
+			"education"			: {
+				"general"			: [
+					{
+						"period"		: "1999-2004",
+						"description"	: "Hogere Informatica, Fontys Hogeschool Eindhoven.\nSpecialisatie in de richting Bestuurlijke Informatie Voorziening.\nDiploma behaald in 2004."
+					},
+					{
+						"period"		: "1994-2000",
+						"description"	: "HAVO, Ds Pierson College, ‘s-Hertogenbosch.\nDiploma behaald in 1999."
+					}						
+				],
+				"specific"			: [
+					{
+						"period"		: "2004",
+						"description"	: "Interne opleiding (Ctac) SAP R/3 en ABAP programmeren."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus JA310 Web Dynpro voor Java."
+					},
+					{
+						"period"		: "2005",
+						"description"	: "SAP cursus TEPD20 Enterprise Portal Developer."
+					},
+					{
+						"period"		: "2006",
+						"description"	: "SAP cursus EP300 KM & Collaboration"
+					},
+					{
+						"period"		: "2006-2013",
+						"description"	: "Jaarlijks bezoek aan SAP TechEd, een 3-daagse technische beurs georganiseerd door SAP waar lezingen en workshops worden gehouden, veelal gericht op de laatste ontwikkelingen binnen SAP NetWeaver."
+					}
+				],
+				"certificates"		: [
+					{
+						"period"		: "2005",
+						"description"	: "SAP Enterprise Portal EP6"
+					},
+					{
+						"period"		: "2009",
+						"description"	: "Prince 2 foundation"
+					}
+				]
+			},
+			"workExperience"		: [
+				{
+					"company"			: "Ziut",
+					"role"				: "HTML5 Developer / CE Developer",
+					"periodFrom"		: "201306",
+					"periodTo"			: "heden",
+					"description"		: "Het ontwikkelen van een Service portaal waarin service orders uit SAP verrijkt kunnen worden met informatie van de monteurs. Zowel de Ziut Back office als de monteurs kunnen o.a. de uitgevoerde werkzaamheden, verbruikte uren, materialen en materieel verantwoorden om in SAP in te dienen.\nHet ontwikkelen van een Aannemers portaal. De aannemer krijgt inzicht in zijn klussen en projecten. En kan de verantwoorde werkzaamheden daarin vastleggen."				
+				},
+				{
+					"company"			: "Zhaikmunai",
+					"role"				: "SAP Netweaver consultant",
+					"periodFrom"		: "201210",
+					"periodTo"			: "201301",
+					"description"		: "Ontwikkelen van een ESS / MSS applicatie in de cloud op basis van SAP UI5 componenten. Employees krijgen inzicht via het portaal in o.a. salarisstroken, vakantiedagen, arbeidsvoorwaardelijke documenten. Daarnaast kunnen ze persoonlijke informatie erin onderhouden zoals telefoonnummer, adres en pasfoto’’s.\nManagers kunnen naast de ESS functionaliteit, de stamdata van alle employees inzien en aanpassen."						
+				},
+				{
+					"company"			: "Tommy Hilfiger",
+					"role"				: "Internet Sales Application developer",
+					"periodFrom"		: "201205",
+					"periodTo"			: "201305",
+					"description"		: "Het vertalen van business requirements naar mogelijke technische oplossingen inclusief bijbehorende ureninschattingen. Daarnaast het analyseren en oplossen van incidenten en het bouwen van changes t.b.v. de B2B webshop."						
+				}
+			]
+		}	
+	]
+}

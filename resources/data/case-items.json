@@ -1,0 +1,730 @@
+{
+	"caseItems": [{
+		"pageId": "deloitte.sapui5applicaties",
+		"client": "Deloitte",
+		"name": "SAP Fiori portaal",
+		"customer": "Deloitte is een professionele dienstverlener met wereldwijd 200.000 medewerkers en kantoren in meer dan 150 landen. Met ruim 4.500 medewerkers en 18 kantoren verspreid over heel Nederland is Deloitte een van de grootste aanbieders van professionele dienstverlening op het gebied van accountancy, belastingadvies, consultancy, risk management en financiële advisering.\n\n",
+		"businessCase": "Voor het ontwikkelen van diverse Fiori maatwerk applicaties is Oliver gevraagd om capaciteit te leveren. Het betrof op het gebied van SAPUI5 en Abap.",
+		"solution": "Binnen 2 maanden zijn 12 applicaties opgeleverd. Hieraan hebben 4 Fiori experts van Oliver meegewerkt. De applicaties kunnen gebruikt worden op een laptop of tablet.\n\n",
+		"delivered": "- 12 Fiori applicaties\n- Geschikt voor laptop en tablet gebruik",
+		"image": "resources/images/case-logos/logo-deloitte.png",
+		"techniques": [{
+			"text": "SAP Fiori"
+		}, {
+			"text": "ABAP"
+		}, {
+			"text": "SAP UI5"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		},{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "deloitte-ipad-fiori-launchpad",
+			"source": "resources/images/case-images/deloitte-ipad-fiori-launchpad.png"
+		},{
+			"type": "image",
+			"attachmentId": "deloitte-ipad-opportunity-desc-module",
+			"source": "resources/images/case-images/deloitte-ipad-opportunity-desc-module.png"
+		},{
+			"type": "image",
+			"attachmentId": "deloitte-ipad-opportunity-desc-module2",
+			"source": "resources/images/case-images/deloitte-ipad-opportunity-desc-module2.png"
+		},{
+			"type": "image",
+			"attachmentId": "deloitte-ipad-opportunity-monitor",
+			"source": "resources/images/case-images/deloitte-ipad-opportunity-monitor.png"
+		},{
+			"type": "image",
+			"attachmentId": "deloitte-ipad-opportunity-monitor2",
+			"source": "resources/images/case-images/deloitte-ipad-opportunity-monitor2.png"
+		},{
+			"type": "image",
+			"attachmentId": "deloitte-ipad-opportunity-vio-form",
+			"source": "resources/images/case-images/deloitte-ipad-opportunity-vio-form.png"
+		}]
+	},{
+		"pageId": "aldipress.uitgeversportaal",
+		"client": "Aldipress",
+		"name": "Uitgevers portaal",
+		"customer": "Aldipress is marktleider op het gebied van trademarketing en distributie van tijdschriften, stripalbums, romans en puzzels voor de losse verkoop. Als schakel tussen uitgevers, retailers en consumenten, weet Aldipress de shopper te activeren. Het assortiment van Aldipress bestaat uit 1.120 titels van 112 verschillende uitgevers. Aldipress maakt deel uit van Sanoma BeNe.\n\n",
+		"businessCase": "Aldipress maakte voorheen gebruik van een SAP portal met maatwerk Java Web Dynpro applicaties, maar deze was verouderd. Een moderne en responsive applicatie was één van de wensen. Daarnaast wild Aldipress hun uitgevers en in de toekomst ook andere gebruikers, kunnen bedienen met een portal, waarbij de gebruikerservaring als uitermate prettig wordt ervaren. De wens van Aldipress was de gebruikerservaring gelijk is aan het gebruik van applicaties die eindgebruikers privé gebruiken. Aan Oliver IT de taak om de bestaande functionaliteiten te handhaven en de gebruikerservaring grondig te optimaliseren.\n\n",
+		"solution": "De huidige SAP portal voor de uitgevers is in een nieuw jasje gestoken met behulp van technieken als HTML5, Javascript, Backbone, JQuery en REST. Daarnaast heeft de portal een responsive design gekregen, wat betekent dat deze goed te benaderen is via ieder device. Aangezien de architectuur van de huidige portal al bestond en de interfaces met de back-end systemen al waren gerealiseerd was het vrij eenvoudig om de bestaande functionaliteit over te hevelen in een nieuw design. De bestaande interfaces zijn hergebruikt, daardoor konden de nieuwe HTML5 applicaties hier direct op worden aangesloten.\n\n",
+		"delivered": "De oplossing van Oliver IT heeft gezorgd voor:\n• Een zeer gebruiksvriendelijke portal\n• Een responsive applicatie\n• Professionele uitstraling \n\nAangezien de architectuur, integratie en interfaces van de oude applicatie hergebruikt konden worden was het mogelijk om de portal in een korte tijd en tegen geringe kosten te optimaliseren.",
+		"image": "resources/images/case-logos/logo-aldipress.png",
+		"techniques": [{
+			"text": "HTML5"
+		}, {
+			"text": "SAP CE"
+		}, {
+			"text": "Mobile Windows"
+		}, {
+			"text": "Mobile iOS"
+		}, {
+			"text": "Mobile Android"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		},{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "pnh-ap-overzicht",
+			"source": "resources/images/case-images/aldipress-overzicht.png"
+		}]
+	},{
+		"pageId": "struykverwo.mobileapps",
+		"client": "Struyk Verwo",
+		"name": "Vrachtwagen en heftruck apps",
+		"customer": "Struyk Verwo Infra is in Nederland marktleider in productie en levering van betonnen materialen voor de publieke bestrating. Struyk Verwo Infra is onderdeel van de Ierse onderneming Cement Roadstone Holding plc. CRH is een mondiale producent en distributeur van hoogwaardige bouwmaterialen en -producten met organisaties in 32 landen, 90.000 werknemers en 3.500 locaties\n\n",
+		"businessCase": "Struyk is haar bedrijfsvoering vergaand aan het optimaliseren door o.a. gebruik te maken van slimme applicaties en apps. Het logistieke proces verbeteren met digitalisering stond hoog op de agenda. Oliver IT werd gekozen vanwege hun ervaring met dergelijke apps die geïntegreerd zijn met SAP. Daarnaast gaf de heldere presentatie en iteratieve aanpak van Oliver IT de doorslag om de mobiele apps voor vrachtwagen- en heftruckchauffeurs te ontwikkelen. Het doel was niet alleen het logistieke proces efficiënter te maken, maar ook kwalitatief te verbeteren en meer rust te creëren op de werkvloer.\n\n",
+		"solution": "Oliver IT heeft op haar eigen platform Oliver Elements twee apps ontwikkeld: één voor vrachtwagenchauffeurs en één voor heftruckchauffeurs. Heftruckchauffeurs voeren in waar een lading staat en de vrachtwagenchauffeurs kunnen zien waar ze deze lading op kunnen halen. Andere mogelijkheden van de app zijn: voertuigcontrole m.b.v. een digitale checklist en foto’s maken van de lading. De apps communiceren met elkaar en staan direct in verbinding met het SAP systeem van Struyk. Voor het realiseren van de apps is nauw samengewerkt met het SAP Competence Center van Struyk. Sinds december 2015 zijn beide apps in gebruik en willen klanten alleen nog maar digitaal geholpen worden.\n\n",
+		"delivered": "Concreet heeft de oplossing van Oliver IT de volgende doelstellingen gerealiseerd:\no De administratieve last verlaagd en laadtijd gehalveerd \no Producent, verlader en ontvanger zijn geïntegreerd in één proces \no Flexibiliteit in registratie vergroot, foutenlast verlaagd Dankzij de apps is het logistieke proces tussen Struyk (producent), vrachtwagenchauffeurs (verlader) en klanten (ontvangers) volledig geïntegreerd, waardoor de totale keten is geoptimaliseerd.",
+		"image": "resources/images/case-logos/logo-struykverwo.png",
+		"techniques": [{
+			"text": "Mobile Windows"
+		},{
+			"text": "Mobile iOS"
+		},{
+			"text": "Mobile Android"
+		},{
+			"text": "Oliver Elements"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		},{
+			"text": "Mobile"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "struyck-mobiel",
+			"source": "resources/images/case-images/struyck-mobiel.png"
+		}, {
+			"type": "image",
+			"attachmentId": "struyck-tablet",
+			"source": "resources/images/case-images/struyck-tablet.png"
+		}, {
+			"type": "image",
+			"attachmentId": "struyck-desktop",
+			"source": "resources/images/case-images/struyck-desktop.png"
+		}]
+	},{
+		"pageId": "facilcom.persgebondenmiddelen",
+		"client": "Facilicom",
+		"name": "Portaal persoons gebonden middelen",
+		"customer": "Facilicom Services Group is al ruim 40 jaar gespecialiseerd in facilitaire dienstverlening en is in sterke mate afhankelijk van het optimaal functioneren van haar informatiesystemen.\n\nFacilicom heeft SAP in gebruik, maar het proces van de Persoons Gebonden Middelen (PGM) kan binnen het systeem niet flexibel ingericht worden.\n\n",
+		"businessCase": "Facilicom heeft Oliver IT gevraagd een architectuur vast te stellen voor het ontsluiten van het Persoons Gebonden Middelen beheerproces via een webapplicatie, waarbij zoveel mogelijk wordt hergebruikt van de standaard, reeds bestaande (SAP-) componenten.\n\n",
+		"solution": "Op basis van de input van Facilicom is door Oliver IT een architectuur en roadmap ontwikkeld, welke als leidraad dienen voor de ontwikkeling van de PGM functionaliteit bij Facilicom. Om tot deze oplossing te komen, zijn de business requirements vertaald in een architectuur opzet. Voor zover mogelijk wordt gebruik gemaakt van de bestaande architectuur waarbij ROI, toekomstvastheid en TCO in het vizier staan. M.b.v. workshops is de benodigde functionaliteit vastgesteld en een userinterface ontworpen. Deze zijn uitgewerkt in een mock-up, waarmee iedereen kan ervaren hoe de applicatie werkt. O.b.v. bovenstaande punten is de webapplicatie in korte tijd gebouwd en geïmplementeerd.\n\n",
+		"delivered": "Oliver IT heeft een webapplicatie opgeleverd die het Persoons Gebonden Middelen-beheer efficiënter maakt. Daarnaast maakt de architectuur snelle implementatie van andere web & mobiele applicaties mogelijk. Tenslotte wordt ervaren dat de SAP-functionaliteit snel en gebruiksvriendelijk geleverd kan worden.",
+		"image": "resources/images/case-logos/logo-facilicom.png",
+		"techniques": [{
+			"text": "SAP Portal"
+		},{
+			"text": "SAP UI5"
+		},{
+			"text": "ABAP"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "faclicom8",
+			"source": "resources/images/case-images/facilicom8.png"
+		},{
+			"type": "image",
+			"attachmentId": "faclicom",
+			"source": "resources/images/case-images/facilicom.png"
+		},{
+			"type": "image",
+			"attachmentId": "faclicom2",
+			"source": "resources/images/case-images/facilicom2.png"
+		},{
+			"type": "image",
+			"attachmentId": "faclicom3",
+			"source": "resources/images/case-images/facilicom3.png"
+		},{
+			"type": "image",
+			"attachmentId": "faclicom4",
+			"source": "resources/images/case-images/facilicom4.png"
+		},{
+			"type": "image",
+			"attachmentId": "faclicom5",
+			"source": "resources/images/case-images/facilicom5.png"
+		},{
+			"type": "image",
+			"attachmentId": "faclicom6",
+			"source": "resources/images/case-images/facilicom6.png"
+		}]
+	},{
+		"pageId": "infrax.mobile",
+		"client": "Infrax",
+		"name": "Mobile app en platform",
+		"customer": "Infrax is het enige bedrijf in Vlaanderen dat vier leidinggebonden nutsvoorzieningen, namelijk elektriciteit, aardgas, kabeltelevisie en de afvoer van afvalwater, samen beheert. Ze zijn actief in 122 Vlaamse en 4 Waalse gemeenten. Infrax beheert verschillende netwerken van openbaar nut en investeert in het onderhoud, de verbetering en de uitbreiding ervan. De activiteiten worden uitgevoerd op een vooruitstrevende manier met bijzondere aandacht voor duurzaamheid en het sociale karakter. Op dat vlak willen ze ook in de toekomst hun voortrekkersrol blijven vervullen.\n\n",
+		"businessCase": "De oude applicatie van Infrax was niet gebruiksvriendelijk en het invoerproces stagneerde wanneer er geen internetverbinding was. Om haar bedrijfsvoering te optimaliseren wilde Infrax een strategisch platform opzetten en op basis daarvan één app bouwen waarin alle disciplines samenkomen. Een belangrijke voorwaarde was dat de app offline te gebruiken is. In de Europese aanbesteding viel de keuze op Oliver IT vanwege de aanpak (met mock-ups), referenties, prijs en de doorlooptijd. De expertise van Oliver IT werd bevestigd bij het referentiebezoek van Infrax aan een tevreden klant van Oliver IT.\n\n",
+		"solution": "Sinds januari 2016 is de app in gebruik bij 600 technici en aannemers, er worden duizenden onderhoudsorders en aansluitingen in verwerkt. Er is één applicatie gebouwd, gebaseerd op het bestaande SAP systeem van Infrax, deze is ingericht a.d.h.v. de 4 disciplines. De app is offline te gebruiken, synchroniseert automatisch met SAP zodra er verbinding is en draait zowel op Windows, iOS als Android. Daarmee is de app voor ieder device geschikt. Er is veel aandacht besteed aan gebruiksvriendelijkheid door elementen grafisch weer te geven. In de app kunnen technici o.a. orders, storingen, materiaalgebruik, voertuigvoorraad en klanthistorie zien, uren verantwoorden en bijlagen uitwisselen.\n\n",
+		"delivered": "Concreet heeft de oplossing van Oliver IT de volgende resultaten opgeleverd:\n• Een applicatie die zowel offline als online te gebruiken is\n• Een zeer gebruiksvriendelijke app\n• Efficiëntere werkprocessen en kostenbesparing\n• Een mobile platform voor de toekomstn\n\nNa de zeer prettige, open samenwerking en de iteratieve aanpak van Oliver IT (o.a. met mock-ups), heeft Infrax hen in de arm genomen als implementatie- en beheerpartner. De komende jaren gaan ze samen de mobile strategie van Infrax verder uitrollen.",
+		"image": "resources/images/case-logos/logo-infrax.png",
+		"techniques": [{
+			"text": "HTML5"
+		}, {
+			"text": "Mobile Windows"
+		}, {
+			"text": "Mobile iOS"
+		}, {
+			"text": "SAP CE"
+		}, {
+			"text": "Mobile Android"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		},{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+				"type": "image",
+				"attachmentId": "infrax-mobile-2014-geplande-orders",
+				"source": "resources/images/case-images/infrax-mobile-2014-geplande-orders.png"
+			}, {
+				"type": "image",
+				"attachmentId": "infrax-mobile-2014-materiaalboekingen",
+				"source": "resources/images/case-images/infrax-mobile-2014-materiaalboekingen.png"
+			}, {
+				"type": "image",
+				"attachmentId": "infrax-mobile-2014-toevoegen-materiaal",
+				"source": "resources/images/case-images/infrax-mobile-2014-toevoegen-materiaal.png"
+			}, {
+				"type": "image",
+				"attachmentId": "infrax-mobile-2014-grijpvoorraad",
+				"source": "resources/images/case-images/infrax-mobile-2014-grijpvoorraad.png"
+			}, {
+				"type": "image",
+				"attachmentId": "infrax-mobile-2014-urenoverzicht",
+				"source": "resources/images/case-images/infrax-mobile-2014-urenoverzicht.png"
+			}]
+	},{
+		"pageId": "dnwg.moto20",
+		"client": "Delta Netwerkgroep",
+		"name": "Moto 2.0",
+		"customer": "Delta biedt de volledige dienstverlening op het gebied van technische infrastructuur (elektriciteit, gas, water en data): van ontwerp en engineering tot aanleg, beheer en onderhoud. Daarnaast levert DELTA Infra diensten op het gebied van meettechniek.\n\n",
+		"businessCase": "Het ontwikkelen, installeren en implementeren van een semi-offline Mobiele Applicatie voor monteurs, ter ondersteuning en vervanging van de huidige MOTO oplossing storingsproces gas alsmede een web applicatie voor ondersteuning van de binnendienst.\n\n",
+		"solution": "SAP PO is bij Delta ingezet als centraal platform voor de gebruikersapplicaties en draagt, op basis van standaard functionaliteiten, zorg voor de procesmonitoring en service orkestratie. Binnen SAP PO zijn de noodzakelijke services generiek opgebouwd zodat deze, zowel binnen de mobile oplossing op het device van de monteur als ook door de binnendienst medewerkers die gebruik maken van een portaal, ingezet kunnen worden.\n\nEen belangrijke eis was de integratie met Geoweb kaarten en het gebruik van verschillende kaartlagen. Een monteur kan op basis van een kaart storingsopdrachten selecteren. Deze optie wordt hoofdzakelijk gebruikt om snel inzicht te krijgen in de gemelde storingen in de buurt waar de monteur zich bevindt.\n\nVoor het oplossen van gas storingen maken de monteurs gebruik van een dynamisch formulier. Afhankelijk van de ‘antwoorden’ worden vervolgvragen of activiteiten getoond. Aan het einde van zijn inspectie of werkzaamheden worden de resultaten opgeslagen en via SAP-PO gesynchroniseerd met een aantal SAP en niet-SAP backend systemen.\n\n",
+		"delivered": "- Up to date mobiele applicatie voor de monteurs\n- Integratie met SAP door middel van synchronisatie\n- Integratie van de Geowebviewer\n- Webportaal voor de backoffice",
+		"image": "resources/images/case-logos/logo-delta.png",
+		"techniques": [{
+			"text": "SAP PO"
+		}, {
+			"text": "HTML5"
+		}, {
+			"text": "Mobile Android"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		},{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "delta-moto2-kaft",
+			"source": "resources/images/case-images/delta-moto2-kaft.jpg"
+		}, {
+			"type": "image",
+			"attachmentId": "delta.moto2-order-detail",
+			"source": "resources/images/case-images/delta.moto2-order-detail.jpg"
+		}, {
+			"type": "image",
+			"attachmentId": "delta-moto2-netwerk-architectuur",
+			"source": "resources/images/case-images/delta-moto2-netwerk-architectuur.png"
+		}, {
+			"type": "image",
+			"attachmentId": "delta-moto2-proces-systemen",
+			"source": "resources/images/case-images/delta-moto2-proces-systemen.png"
+		}]
+	},{
+		"pageId": "jumbo.portaalartikelenopvoeren",
+		"client": "Jumbo",
+		"name": "Portaal artikelen opvoeren",
+		"customer": "Jumbo Supermarkten heeft de C1000 supermarkten overgenomen en heeft het voornemen om de formules samen te brengen onder één versterkt Jumbo merk. Naast de migratie naar één formule, zal ook de ondersteunende organisatie worden geïntegreerd. Met name op gebied van logistiek, ICT en operatie wil men de nodige synergievoordelen behalen.\n\n",
+		"businessCase": "Jumbo maakt voor het verzamelen van gegevens over nieuwe en te saneren artikelen gebruik van een Excel proces, genaamd de Rollende Artikel Kalender (RAK). Dit Excel-bestand gaat de betrokken afdelingen langs, waar additionele informatie wordt toegevoegd. De laatste definitieve check wordt uitgevoerd door de afdeling Data Management. Daarna worden de gegevens geüpload in het SAP systeem en met handmatige acties verwerkt. Veel stappen in dit Master Data proces waren niet optimaal, onder andere door de handmatige acties en foutgevoeligheid. Jumbo heeft Oliver IT gevraagd om het RAK te automatiseren middels een portaal/web applicatie.\n\n",
+		"solution": "Om de samenvoeging van de beide organisaties en specifiek het artikel opvoerproces goed aan te sturen, is er een nieuw RAK proces ontworpen dat ontsloten wordt via het Web. Van briefing aan categorie management en van inkoop, logistiek, finance tot aan opvoer in de SAP systemen van Jumbo. De management cockpit geeft direct inzicht in de statussen van de processen. Aanpassingen van de data, zoals die voorkwamen in het Excel RAK, worden nu centraal geregistreerd. De processen worden op een volgordelijke wijze ondersteund.\n\n",
+		"delivered": "De applicatie heeft gezorgd voor:\n• Reduceren van het aantal fouten vanwege automatisering\n• Verhoging van de kwaliteit\n• Tijdsbesparing, omdat het proces sneller verloopt\n\nDe applicatie geeft o.a. inzicht waar de nieuwe artikelen zich bevinden in het proces. Het nieuwe systeem is veel minder foutgevoelig, omdat veel zaken geautomatiseerd zijn. Daarnaast voert SAP meer dan 150 checks uit ter controle.\n\n",
+		"image": "resources/images/case-logos/logo-jumbo.png",
+		"techniques": [ {
+			"text": "Java Webdynpro"
+		}, {
+			"text": "SAP Portal"
+		}, {
+			"text": "SAP BPM"
+		}, {
+			"text": "SAP CE"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+				"type": "image",
+				"attachmentId": "jumbo-portal1",
+				"source": "resources/images/case-images/jumbo-portal1.png"
+			}, {
+				"type": "image",
+				"attachmentId": "jumbo-portal2",
+				"source": "resources/images/case-images/jumbo-portal2.png"
+			}]
+	},{
+		"pageId": "kpn.klantportaal",
+		"client": "KPN",
+		"name": "Klantenportaal",
+		"customer": "KPN International levert uiterst betrouwbare data- en IP-diensten voor corporate- en wholesale-klanten in Europa en de rest van de wereld. KPN International is de toonaangevende leverancier van telecommunicatie- en ICT-diensten en biedt consumenten vaste en mobiele telefonie, internet en televisie. Voor haar zakelijke klanten verzorgt KPN complete telecommunicatie ICT-oplossingen.\n\n",
+		"businessCase": "KPN International wilde een online klantenportaal voor haar zakelijke klanten, zodat zij gemakkelijk en snel toegang kunnen krijgen tot hun informatie en gegevens. Daarnaast wilden ze het mogelijk maken om op een toegankelijke manier zaken te kunnen doen met KPN International, onder andere door eenvoudig gegevens te wijzigen via het online klantenportaal.\n\n",
+		"solution": "Voor KPN International is een online klanten portaal ontwikkeld, waarmee het mogelijk is geworden om SAP data te ontsluiten buiten de organisatie. De klant kan 24/7 informatie opvragen en veranderen, zoals contracten, rapportages en het traceren van orders. Het systeem is voor de klant overzichtelijk, waardoor op een snelle manier foutloos wijzigingen kunnen worden aangebracht.\n\n",
+		"delivered": "Het grote voordeel voor de klanten van KPN International is dat zij nu 24/7 hun zaken online kunnen regelen en niet meer afhankelijk zijn van KPN en haar kantooruren. Aangezien het verwerken van de data zo gebruiksvriendelijk is geworden heeft KPN besloten om ook een dergelijk portaal op te zetten voor haar eigen medewerkers.",
+		"image": "resources/images/case-logos/logo-kpn.png",
+		"techniques": [ {
+			"text": "HTML5"
+		}, {
+			"text": "SAP Portal"
+		}, {
+			"text": "SAP CE"
+		}, {
+			"text": "SAP BPM"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+				"type": "image",
+				"attachmentId": "kpn-portaal",
+				"source": "resources/images/case-images/kpn-portaal.png"
+			}]
+	}, {
+		"pageId": "parnassia.zelfserviceportaal",
+		"client": "Parnassia Groep",
+		"name": "Zelf service portaal",
+		"customer": "De Parnassia Groep is een moderne organisatie in de GGZ van 9 zorgbedrijven en in totaal meer dan 8.000 medewerkers. Zij verzorgen een veelomvattend aanbod van specialistische zorg. \n\nDe Parnassia Groep kent een hoge mutatiegraad (15% doorstroom per jaar), omdat zij veel met vrijwilligers en stagiaires werkt.\n\n",
+		"businessCase": "De Parnassia Groep is in sterke mate afhankelijk van het optimaal functioneren van haar medewerkers. Er wordt gebruik gemaakt van SAP en de gebruikersgroep had een sterke behoefte om een aantal HRM processen te digitaliseren en te ondersteunen met workflow. Concreet wilde Parnassia Groep onder andere in- en uitdiensttredingsprocessen efficiënter maken, fouten reduceren en de doorlooptijd verminderen.\n\n",
+		"solution": "Er is gekozen om een gebruiksvriendelijk Manager Zelf Portaal te creëren, waar managers terecht kunnen voor diverse procedures en aanvragen, die te maken hebben met personele handelingen. De intuïtieve webomgeving kent o.a. de volgende mogelijkheden:\nSAP Manager Self Service (MSS): de omgeving waarin de personele handelingen door de manager gestart en afgehandeld worden.\nWerkplekvoorziening: webapplicatie voor het geautomatiseerde proces van de werkplekvoorzieningen.\nDigitaal medewerker dossier: webapplicatie die o.a. hetpapieren dossier van de medewerkers vervangt.\n\n",
+		"delivered": "Naast een verhoogd gebruiksgemak voor de gebruikersgroep zijn de processen geoptimaliseerd, het aantal fouten gereduceerd en de administratieve doorlooptijd is afgenomen.",
+		"image": "resources/images/case-logos/logo-parnassia.png",
+		"techniques": [ {
+			"text": "Java Webdynpro"
+		}, {
+			"text": "SAP Portal"
+		}, {
+			"text": "SAP CE"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+				"type": "image",
+				"attachmentId": "parnassia",
+				"source": "resources/images/case-images/parnassia.png"
+			}]
+	}, {
+		"pageId": "postnl.mijnpost",
+		"client": "Post NL",
+		"name": "MijnPost klantenportaal",
+		"customer": "PostNL is de vindingrijke partner in de wereld van verzenden en ontvangen van universele post. Het bedrijf kent drie segmenten, 49.000 medewerkers en ruim tien netwerken in dertien landen. Of het nu gaat om online verzenden of via fysieke netwerken is: PostNL streeft naar een naadloze verbinding. Ze bieden gemak, controle en betrouwbaarheid voor elke klant: van grote webwinkelier tot consument. Het postbedrijf wordt aangepast aan de dalende postvolumes. Tegelijkertijd zet PostNL sterk in op de groei in pakketten en een hoge servicegraad aan klanten.\n\n",
+		"businessCase": "PostNL heeft aangegeven behoefte te hebben aan een online klantenomgeving waar zakelijke klanten snel, gemakkelijk en met hoge zekerheid online hun postzaken kunnen regelen.\n\n",
+		"solution": "Het ‘MijnPost’ portaal is gerealiseerd via een SOA architectuur en is opgebouwd uit 3 ‘lagen’:\n• Presentatie: Met .NET is de user interface van het portaal gerealiseerd. De frontend biedt een zeer hoge performance.\n• Integratie: Er wordt gebruik gemaakt van webservices uit SAP en andere systemen, deze zijn geïntegreerd binnen ‘Mijn Post’. Orders worden via een workflow afgehandeld, waarbij gegevens aan diverse systemen beschikbaar worden gesteld.\n• Applicatie: In deze laag bevinden zich alle business data en logica. Alle applicaties zijn ‘service enabled’ en kunnen o.b.v. webservices werken. Naast SAP zijn dat andere systemen, zoals PUMA.\n\n",
+		"delivered": "Het portaal verhoogt het gebruiksgemak en de servicegraad voor klanten. De oplossing heeft ervoor gezorgd dat partijen post sneller en efficiënter worden afgehandeld. Dit maakt het onder andere mogelijk om bestellingen van klanten tot 01.00 uur te verwerken, deze kunnen dan de volgende werkdag nog bezorgd worden.",
+		"image": "resources/images/case-logos/logo-postnl.png",
+		"techniques": [ {
+			"text": "Java Webdynpro"
+		}, {
+			"text": "SAP Portal"
+		}, {
+			"text": "SAP CE"
+		}, {
+			"text": "SAP PI"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		},{
+			"text": "Integratie"
+		}],
+		"attachments": [{
+				"type": "image",
+				"attachmentId": "postnl-mijnpost",
+				"source": "resources/images/case-images/postnl-mijnpost.png"
+			}]
+	}, {
+		"pageId": "postnl.bubakassa",
+		"client": "Post NL",
+		"name": "Bubakassa",
+		"customer": "PostNL is de vindingrijke partner in de wereld van verzenden en ontvangen van universele post. Het bedrijf kent drie segmenten, 49.000 medewerkers en ruim tien netwerken in dertien landen. Of het nu gaat om online verzenden of via fysieke netwerken is: PostNL streeft naar een naadloze verbinding. Ze bieden gemak, controle en betrouwbaarheid voor elke klant: van grote webwinkelier tot consument. Het postbedrijf wordt aangepast aan de dalende postvolumes. Tegelijkertijd zet PostNL sterk in op de groei in pakketten en een hoge servicegraad aan klanten.\n\n",
+		"businessCase": "PostNL heeft te maken met volumedalingen van de fysieke post, omdat steeds meer bedrijven en particulieren gebruik maken van internet voor hun correspondentie. De flexibiliteit en continuiteit van de business processen vormen daarin een belangrijke rol. De vraag was om de processen te ondersteunen met een passende oplossing.",
+		"solution": "BuBaKassa is een applicatie welke door de Business-balies gebruikt wordt om de aangeleverde post van zakelijke klanten te registreren. Het gaat hierbij om de desbetreffende klant, de verschillende typen post met bijbehorende logistieke waarheid in termen van product / dienst, aantallen en gewichten. De BuBaKassa applicatie behandelt alles met betrekking tot de invoer van post van zakelijke klanten, inclusief controles en mogelijke wijzigingen op deze invoer. De ingevoerde informatie vormt een essentieel onderdeel van de orders en facturen die door SAP worden opgemaakt. Het is van groot belang dat de ingevoerde informatie correct is.\n\n",
+		"delivered": "Het portaal verhoogt het gebruiksgemak en de servicegraad voor klanten. De oplossing heeft ervoor gezorgd dat partijen post sneller en efficiënter worden afgehandeld. Dit maakt het onder andere mogelijk om bestellingen van klanten tot 01.00 uur te verwerken, deze kunnen dan de volgende werkdag nog bezorgd worden.",
+		"image": "resources/images/case-logos/logo-postnl.png",
+		"techniques": [ {
+			"text": "Java Webdynpro"
+		}, {
+			"text": "SAP Portal"
+		}, {
+			"text": "SAP CE"
+		}, {
+			"text": "SAP PI"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		},{
+			"text": "Integratie"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-werkplek-configuratie",
+			"source": "resources/images/case-images/postnl-bubakassa-werkplek-configuratie.png"
+		}, {
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-infra-architectuur",
+			"source": "resources/images/case-images/postnl-bubakassa-infra-architectuur.png"
+		}, {
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-architectuur",
+			"source": "resources/images/case-images/postnl-bubakassa-architectuur.png"
+		}]
+	}, {
+		"pageId": "postnl.move",
+		"client": "Post NL",
+		"name": "Move",
+		"customer": "PostNL is de vindingrijke partner in de wereld van verzenden en ontvangen van universele post. Het bedrijf kent drie segmenten, 49.000 medewerkers en ruim tien netwerken in dertien landen. Of het nu gaat om online verzenden of via fysieke netwerken is: PostNL streeft naar een naadloze verbinding. Ze bieden gemak, controle en betrouwbaarheid voor elke klant: van grote webwinkelier tot consument. Het postbedrijf wordt aangepast aan de dalende postvolumes. Tegelijkertijd zet PostNL sterk in op de groei in pakketten en een hoge servicegraad aan klanten.\n\n",
+		"businessCase": "Verbeter de bestaande situatie met:\n• Efficiëntere emballageplanning\n• Verbetering informatievoorziening\n• Vermindering derving emballagemiddelen\n• Reductie transportkosten op emballage\n• Optimalisatie ketensturing",
+		"solution": "Project MOVE maakt deel uit van het ambitieuze traject van PostNL om bestaande on-Premise systemen uit te faseren naar beheersbare en schaalbare On Demand services. ICT gerelateerde uitgangspunten daarbij zijn centrale architectuur en centrale regie. Centrale architectuur bijvoorbeeld door het vaststellen van canonieke berichtformaten, die voor meerdere interfaces kunnen worden gebruikt.  Centrale regie door het uitbesteden van niet kerntaken aan (verschillende) externe partijen en het inrichten van organisatie-eenheden die zich specifiek bezighouden met CloudIT architectuur en Business Process control. Qua ICT infrastructuur is gekozen voor centrale berichtsturing op basis van het door PostNL reeds in gebruik zijnde SAP PI platform, in een IAAS architectuur.\n\n",
+		"delivered": "Oliver-IT is bij PostNL onder meer voor het project MOVE  (en de vervolgtrajecten) ingezet voor het technisch ontwerpen van de SAP PI interfaces, de implementatie in SAP PI en voor de begeleiding go-live.\n\n",
+		"image": "resources/images/case-logos/logo-postnl.png",
+		"techniques": [ {
+			"text": "SAP PI"
+		}],
+		"categories": [{
+			"text": "Integratie"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-werkplek-configuratie",
+			"source": "resources/images/case-images/postnl-bubakassa-werkplek-configuratie.png"
+		}, {
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-infra-architectuur",
+			"source": "resources/images/case-images/postnl-bubakassa-infra-architectuur.png"
+		}, {
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-architectuur",
+			"source": "resources/images/case-images/postnl-bubakassa-architectuur.png"
+		}]
+	},{
+		"pageId": "postnl.owsvb",
+		"client": "Post NL",
+		"name": "Personeelsplanning Voorbereiden & Bezorgen",
+		"customer": "PostNL is de vindingrijke partner in de wereld van verzenden en ontvangen van universele post. Het bedrijf kent drie segmenten, 49.000 medewerkers en ruim tien netwerken in dertien landen. Of het nu gaat om online verzenden of via fysieke netwerken is: PostNL streeft naar een naadloze verbinding. Ze bieden gemak, controle en betrouwbaarheid voor elke klant: van grote webwinkelier tot consument. Het postbedrijf wordt aangepast aan de dalende postvolumes. Tegelijkertijd zet PostNL sterk in op de groei in pakketten en een hoge servicegraad aan klanten.\n\n",
+		"businessCase": "Technisch:\nPostNL hanteert een cloud only strategie. Dit betekent dat alle in gebruik zijnde applicaties worden beoordeeld of ze in de cloud kunnen draaien of dat ze vervangen moeten worden door een alternatief. De huidige applicatie maakt gebruik van verouderde technologie en  draait niet in de cloud. Hiervoor is dus een alternatief gekozen.\n\nProcesmatig:\nHarmony voldoent niet meer aan de operationele uitgangspunten van het personeelsplanningsproces bij PostNL, waardoor een aantal zaken niet meer efficient ingeregeld kunnen worden.\n\n",
+		"delivered": "Het uiteindelijke resultaat is een nieuwe applicatie (OWS) die volledig geintegreerd is met de bestaande applicaties en processen.",
+		"solution": "Oliver heeft de integratie taak op zich genomen voor de nieuwe planningsapplicatie. Deze moest gekoppeld worden aan diverse andere SAP en NON-SAP applicaties. Deze integratie loopt via SAP PI. Een complicerende factor was dat het SAP landschap tijdens dit project ook naar de Cloud werd gebracht. De processen die geintegreerd moesten worden liepen dus al soms via de cloud en soms nog on-premise. Hierdoor onstond een hybride landschap. Tijdens het bouwen van de intefaces is al zoveel mogelijk rekening gehouden met het toekomstige (Cloud) landschap bij PostNL.\n\n",
+		"image": "resources/images/case-logos/logo-postnl.png",
+
+		"techniques": [ {
+			"text": "SAP PI"
+		}],
+		"categories": [{
+			"text": "Integratie"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-werkplek-configuratie",
+			"source": "resources/images/case-images/postnl-bubakassa-werkplek-configuratie.png"
+		}, {
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-infra-architectuur",
+			"source": "resources/images/case-images/postnl-bubakassa-infra-architectuur.png"
+		}, {
+			"type": "image",
+			"attachmentId": "postnl-bubakassa-architectuur",
+			"source": "resources/images/case-images/postnl-bubakassa-architectuur.png"
+		}]
+	},{
+		"pageId": "stedin.validatieportaal",
+		"client": "Stedin",
+		"name": "Validatie portaal",
+		"customer": "Stedin zorgt ervoor dat ruim 2 miljoen consumenten, bedrijven en overheden 365 dagen per jaar, 24/7 over energie beschikken. Het gas- en elektriciteitsnetwerk is de onmisbare schakel tussen Stedin en de energieleverancier. \nHet validatieproces van Stedin is een uitgebreid proces waarbij de door de monteurs gemaakte uren en werkzaamheden moeten worden beoordeeld en daarna financieel worden vrijgegeven voor verdere verwerking in SAP.\n\n",
+		"businessCase": "Oliver IT is gevraagd het gehele validatieproces te optimaliseren en gebruiksvriendelijk te presenteren, zonder impact te hebben op de bestaande programmatuur in het huidige SAP systeem. Daarbij dient een grote lijst aan proces- en systeem issues opgelost te worden.\n\n",
+		"solution": "Om te komen tot een snelle en juiste validatie van de uitgevoerde activiteiten is het noodzakelijk om over diverse informatiebronnen te beschikken, in SAP maar ook in externe applicaties. \nDaarnaast moet de uitkomst van de validatie het verdere proces in SAP triggeren, zonder extra manuele handelingen. Hiervoor heeft Oliver IT een gebruiksvriendelijke weboplossing gemaakt, waarbij alle benodigde gegevens in één scherm worden getoond en afgehandeld.\n",
+		"delivered": "Een forse reductie in de doorlooptijd van het validatieproces is gerealiseerd en het gebruiksgemak is sterk vergroot. Tevens is de tijd die uitvoerders besteden aan valideren (enkele uren per dag) gehalveerd.",
+		"image": "resources/images/case-logos/logo-stedin.png",
+		"techniques": [ {
+			"text": "HTML5"
+		}, {
+			"text": "SAP Portal"
+		}, {
+			"text": "SAP CE"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+				"type": "image",
+				"attachmentId": "stedin",
+				"source": "resources/images/case-images/stedin.png"
+			}]
+	}, {
+		"pageId": "ziut.mobieleoplossing",
+		"client": "Ziut",
+		"name": "Mobiele oplossing",
+		"customer": "Ziut levert effectieve en efficiënte oplossingen op het gebied van openbare verlichting, verkeerregeling, lichtontwerp en camerasystemen. Ziut is een zelfstandige organisatie, in 2010 ontstaan uit een fusie tussen Liandyn (Alliander) en IP Lighting (Enexis).\nZiut is marktleider op het gebied van openbare verlichting in Nederland en heeft meer dan 400 medewerkers in dienst, verdeeld over 5 vestigingen.\n\n",
+		"businessCase": "De markt is sterk in beweging, de concurrentie neemt toe en de prijzen staan onder druk. Dit heeft ertoe geleid dat Ziut de transitie dient te maken naar de ‘Monteur van de Toekomst’. Hoe kunnen de monteurs optimaal ondersteund worden met een mobiele oplossing? Hoe leggen we de basis voor de ‘Monteur van de Toekomst’? Concreet heeft Oliver IT zich beziggehouden met het implementeren en begeleiden van Ziut bij de transitie van de bestaande werkwijze naar de ‘Monteur van de Toekomst’.\n\n",
+		"solution": "De monteurs maken tegenwoordig gebruik van een mobiele applicatie ontwikkeld door Oliver IT. De werkopdrachten zijn nu digitaal beschikbaar, waardoor monteurs niet meer naar de vestiging hoeven om papieren bonnen op te halen. De oude werkbon waarop monteurs aanvangs- en eindtijd, verbruikte materialen en opmerkingen schreven zijn vervangen door de app. Het systeem is ontworpen vanuit de gebruiker: wanneer er in de afhandeling van een order bijvoorbeeld een synchronisatieprobleem optreedt, wordt de backoffice automatisch geïnformeerd. Er worden direct oplossingsacties voorgesteld, waardoor de monteur gewoon door kan blijven werken.\n\n",
+		"delivered": "Mutaties worden bij de bron door de monteur ingevoerd. De monteurs hebben actuele gegevens buiten (in het veld) ter beschikking. Dit draagt bij aan een efficiëntere afhandeling en een vermindering van fouten. Daarnaast is kwaliteit van gegevens in SAP en andere bronsystemen sterk verbeterd. De inzet, efficiëntie en tevredenheid van de monteurs is sterk toegenomen. Onder andere door de integratie met Google Maps en een optimale routeplanning ondersteuning. Het aantal FTE’s in de backoffice is gedaald en er is meer zicht op de daadwerkelijke inzet en productiviteit van de monteurs, waardoor een toename van de productiviteit en flexibiliteit gerealiseerd is.\n\n",
+		"image": "resources/images/case-logos/logo-ziut.png",
+		"techniques": [ {
+			"text": "HTML5"
+		}, {
+			"text": "SAP CE"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		},{
+			"text": "Mobile"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "ziut-mvdt-order-overzicht",
+			"source": "resources/images/case-images/ziut-mvdt-order-overzicht.png"
+		}, {
+			"type": "image",
+			"attachmentId": "ziut-mvdt-details-storing",
+			"source": "resources/images/case-images/ziut-mvdt-details-storing.png"
+		}, {
+			"type": "image",
+			"attachmentId": "ziut-mvdt-route-berekenen",
+			"source": "resources/images/case-images/ziut-mvdt-route-berekenen.png"
+		}, {
+			"type": "image",
+			"attachmentId": "ziut-mvdt-route",
+			"source": "resources/images/case-images/ziut-mvdt-route.png"
+		}, {
+			"type": "image",
+			"attachmentId": "ziut-mvdt-streetview",
+			"source": "resources/images/case-images/ziut-mvdt-streetview.png"
+		}, {
+			"type": "image",
+			"attachmentId": "ziut-mvdt-schade-formulier",
+			"source": "resources/images/case-images/ziut-mvdt-schade-formulier.png"
+		}, {
+			"type": "image",
+			"attachmentId": "ziut-mvdt-schade-formulier-2",
+			"source": "resources/images/case-images/ziut-mvdt-schade-formulier-2.png"
+		}]
+	}, {
+		"pageId": "ziut.portaalartikelenzoeken",
+		"client": "Ziut",
+		"name": "Portaal artikelen zoeken",
+		"customer": "Ziut levert effectieve en efficiënte oplossingen op het gebied van openbare verlichting, verkeerregeling, lichtontwerp en camerasystemen. Ziut is een zelfstandige organisatie, in 2010 ontstaan uit een fusie tussen Liandyn (Alliander) en IP Lighting (Enexis).\nZiut is marktleider op het gebied van openbare verlichting in Nederland en heeft meer dan 400 medewerkers in dienst, verdeeld over 5 vestigingen.\n\n",
+		"businessCase": "Ziut gebruikt, naast SAP, diverse systemen voor haar operationele activiteiten. Zowel vanuit de projecten- als serviceorganisatie is de wens geuit voor een gemakkelijke en eenduidige ondersteuning bij het zoeken naar artikelen en artikelinformatie binnen deze systemen. De afdelingen artikelbeheer, engineering en service hadden behoefte aan een uniforme en “slimme” artikel-zoekmethode bij het calculatieproces. Selecties moeten op diverse kenmerken, zoals prijs, levertijd en marge, gemaakt kunnen worden.\n\n",
+		"solution": "SAP CE is bij Ziut ingezet als centraal platform voor de gebruikersapplicaties en draagt, op basis van standaard functionaliteiten uit SAP ECC, zorg voor de procesmonitoring en serviceorkestratie. HTML5 is gebruikt voor de opzet van het portaal. Binnen SAP CE zijn de noodzakelijke services generiek opgebouwd, zodat deze niet alleen gebruikt kunnen worden voor de artikel zoekfunctionaliteit binnen het portaal, maar ook ingezet worden binnen de reeds ontwikkelde mobiele oplossing op de iPads (Monteur van de Toekomst).\n\n",
+		"delivered": "De inzet van HTML 5 in de front-end biedt behalve een fraaie grafische uitstraling, een ‘responsive design’: een web development methode waarbij één en dezelfde website zich automatisch aanpast aan de formaten van het venster waarin het getoond wordt. De schermindeling is hierdoor altijd optimaal. Daarnaast is het door het optimaliseren van de processen (BPM) en deze te ontsluiten via het portaal nu mogelijk om in één scherm o.b.v. meerdere zoekcriteria eenduidig en eenvoudig artikelen te zoeken. Door de informatie uit meerdere systemen te integreren beschikt men nu over één overzicht. Daarnaast is de kwaliteit van de gegevens in SAP en andere bronsystemen verbeterd.\n\n",
+		"image": "resources/images/case-logos/logo-ziut.png",
+		"techniques": [ {
+			"text": "HTML5"
+		}, {
+			"text": "SAP CE"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "ziut-portaal-artikelen-zoeken",
+			"source": "resources/images/case-images/ziut-portaalartikelenzoeken.png"
+		}]
+	},{
+		"pageId": "pnh.inspecties",
+		"client": "Provincie N-Holland",
+		"name": "Inspectie app",
+		"customer": "Binnen de Provincie Noord-Holland zijn 22 (vaar)weginspecteurs werkzaam. De inspecteurs zijn professionele hulpverleners die werken aan veiligheid en doorstroming op provinciale wegen. Zij zorgen ervoor dat de andere hulpdiensten zoals politie, brandweer en ambulance adequaat hun werk kunnen doen. Bovendien laten ze schade herstellen en ruimen alles op, waarna ze de weg vrijgeven voor verkeer.\n\n",
+		"businessCase": "Door de inspecteurs werd gebruik gemaakt van 10 verschillende formulieren voor de registratie van gegevens bij incidenten of controles. Met name de registratie van formulieren werd onvoldoende digitaal ondersteund. Oliver heeft de opdracht gekregen om het werkproces efficiënter in te richten van de (vaar)weginspecteurs met een passende digitale oplossing.\n\n",
+		"solution": "Samen met de (vaar)weginspecteurs zijn 3 workshops gehouden. Tijdens de workshops is aan de hand van mock up's de functionaliteit voor de mobiele applicatie uitgewerkt. Er kwam al snel naar voren dat de 10 formulieren konden worden teruggebracht naar 3 intelligente formulieren. Samen met de integratie van Qlickview, Arcgis, Geoweb en LTC is er een complete totaaloplossing ontstaan. Alle integratie is gerealiseerd met het Platform Oliver Elements.\n\n",
+		"delivered": "- Windows tablet applicatie voor het registeren van incidenten en inspecties \n- Geintegreede Geowebviewer waarop de geregisteerde formulieren worden getoond \n- Mogelijkheid voor het nemen van foto's \n- Formulieren worden automatisch in pdf verstuurd \n- Rapportages integratie met Qlikview \n- Interface met LTC voor tonen van de actuele wegwerkzaamheden op de tablet\n- Arcgis koppeling voor het bepalen van de dichtsbijzijnde hectometerpaal \n\n",
+		"image": "resources/images/case-logos/logo-pnh.png",
+		"techniques": [{
+			"text": "HTML5"
+		},{
+			"text": "Mobile Windows"
+		},{
+			"text": "Oliver Elements"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		},{
+			"text": "Integratie"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "pnh-Homescreen",
+			"source": "resources/images/case-images/PNH-Inspecties-Homescreen.png"
+		},{
+			"type": "image",
+			"attachmentId": "pnh-Inspectie",
+			"source": "resources/images/case-images/PNH-Inspecties-Inspectie.png"
+		},{
+			"type": "image",
+			"attachmentId": "pnh-Afgesloten-Forms",
+			"source": "resources/images/case-images/PNH-Inspecties-Afgesloten-Forms.png"
+		},{
+			"type": "image",
+			"attachmentId": "pnh-Kaart1",
+			"source": "resources/images/case-images/PNH-Inspecties-Kaart1.png"
+		},{
+			"type": "image",
+			"attachmentId": "pnh-Werkzaamheden",
+			"source": "resources/images/case-images/PNH-Inspecties-Werkzaamheden.png"
+		}]
+	}, {
+		"pageId": "pnh.cas",
+		"client": "Provincie N-Holland",
+		"name": "Kostprijssturing",
+		"customer": "\n\n",
+		"businessCase": "\n\n",
+		"solution": "\n\n",
+		"delivered": "\n\n",
+		"image": "resources/images/case-logos/logo-pnh.png",
+		"techniques": [{
+			"text": "HTML5"
+		},{
+			"text": "SAP PO"
+		},{
+			"text": "SAP BPM"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		},{
+			"text": "Integratie"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "pnh-kapp-overicht",
+			"source": "resources/images/case-images/pnh-kps-overzicht.png"
+		}, {
+			"type": "image",
+			"attachmentId": "pnh-kapp-tijdschrijven",
+			"source": "resources/images/case-images/pnh-kps-tijdschrijven.png"
+		}, {
+			"type": "image",
+			"attachmentId": "pnh-kapp-tijdschrijven-mobiel",
+			"source": "resources/images/case-images/pnh-kps-tijdschrijven-mobiel.png"
+		}, {
+			"type": "image",
+			"attachmentId": "pnh-kapp-raming",
+			"source": "resources/images/case-images/pnh-kps-raming.png"
+		}]
+	},{
+		"pageId": "talis.senoapp",
+		"client": "Talis",
+		"name": "S&O app",
+		"customer": "Talis is een woningcorporatie die 14.000 woning verhuurt en beheert in de regio Nijmegen en Wijchen. Ze zorgen voor passende, betaalbare en toekomstbestendige woningen in goed functionerende wijken, in combinatie met een goede zorg.",
+		"businessCase": "Het vervangen van de huidige PDA “Online for Field Engineers” applicatie voor een up to date iPad App met een gebruikersvriendelijke userinterface. Hierbij waren ook een aantal aanvullende wensen. Uitgangspunt van de app is dat deze aangesloten wordt op de huidige SAP ECC/MRS omgeving.\n\n",
+		"solution": "Oliver IT heeft op haar eigen platform Oliver Elements een apps ontwikkeld voor de service- en onderhoudsmonteurs. Aan de hand van de afspraken lijst in de agenda of lijst weergave kan de monteur zijn uit te voeren werkzaamheden inzien. Na het in behandeling nemen van de afspraak kan de monteur taken of vervolgwerkzaamheden terugmelden.\n\n",
+		"delivered": "- iOS iPad en iPhone app voor de service- en onderhoudsmonteurs\n- Synchonisatie met SAP voor het ophalen en afmelden van taken\n- Duidelijk overzicht van op te pakken werkzaamheden\n- Route bepaling vanuit de afspraak\n- Functionaliteit voor het aanmaken van nieuwe afspraken\n\n",
+		"image": "resources/images/case-logos/logo-talis.png",
+		"techniques": [ {
+			"text": "Mobile iOS"
+		}, {
+			"text": "HTML5"
+		}, {
+			"text": "Oliver Elements"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "talis-iPad1",
+			"source": "resources/images/case-images/talis-iPad1.png"
+		},{
+			"type": "image",
+			"attachmentId": "talis-iPad2",
+			"source": "resources/images/case-images/talis-iPad2.png"
+		},{
+			"type": "image",
+			"attachmentId": "talis-iPhone1",
+			"source": "resources/images/case-images/talis-iPhone1.png"
+		},{
+			"type": "image",
+			"attachmentId": "talis-iPhone2",
+			"source": "resources/images/case-images/talis-iPhone2.png"
+		},{
+			"type": "image",
+			"attachmentId": "talis-iPhone3",
+			"source": "resources/images/case-images/talis-iPhone3.png"
+		}]
+	},{
+		"pageId": "woonbedrijf.vakmandigitaal",
+		"client": "Woonbedrijf",
+		"name": "Vakman digitaal",
+		"customer": "Woonbedrijf is een vooruitstrevende organisatie met zo'n 450 medewerkers. Verantwoordelijk voor maar liefst 31.000 woningen in Eindhoven en omgeving. Woonbedrijf investeert weloverwogen in onderhoud, renovatie, nieuwbouw en de leefomgeving van de huurder.\n\n",
+		"businessCase": "Een vakman moet de informatie aangaande al zijn werkzaamheden digitaal, tijd- en plaatsonafhankelijk beschikbaar hebben en tevens in staat zijn de administratieve afhandeling van zijn werk digitaal te kunnen verwerken. De opdracht betrof het ontwikkelen van en implementeren van een mobile applicatie te ondersteuning van de volgende processen:\n• Werkbon digitaal & plaatsonafhankelijk\n• Werkplanning inzichtelijk en zelf muteerbaar\n• Bestede uren en materialen\n• Materialen bestellen en busvoorraad\n• Rapportages en overzichten\n• Balansen busvoorraad\n\n",
+		"solution": "De mobiele applicatie is ontwikkeld als hybride HTML5 applicatie, d.w.z. dat er een hybride container applicatie wordt geïnstalleerd op een mobiel device waarbinnen een HTML5 applicatie draait. De container applicatie zorgt voor de eventuele koppeling vanuit de HTML5 applicatie naar native functionaliteiten. De technologie voor de hybride container is het Cordova framework.\n\nDe mobiele applicatie communiceert met de SAP ECC backend met behulp van SAP PO. PO doet in deze dienst als synchronisatie server. Enerzijds wordt periodiek data uit ECC gehaald en worden delta’s bepaald met behulp van een generiek synchronisatie mechanisme. Anderzijds wordt de data van de mobiele devices verwerkt in ECC.\n\n",
+		"delivered": "Passende mobiele oplossing voor de vakmannen van het Woonbedrijf.\n\n",
+		"image": "resources/images/case-logos/logo-woonbedrijf.png",
+		"techniques": [{
+			"text": "HTML5"
+		}, {
+			"text": "Mobile iOS"
+		}, {
+			"text": "SAP PO"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "woonbedrijf-vakmanmobiel-serviceorder-gegevens",
+			"source": "resources/images/case-images/woonbedrijf-vakmanmobiel-serviceorder-gegevens.png"
+		}, {
+			"type": "image",
+			"attachmentId": "woonbedrijf-vakmanmobiel-materiaal-boeken",
+			"source": "resources/images/case-images/woonbedrijf-vakmanmobiel-materiaal-boeken.png"
+		}]
+	},{
+		"pageId": "schippers.websalesportaal",
+		"client": "Schippers",
+		"name": "Websales portaal",
+		"customer": "Schippers is een innovatieve internationale verkooporganisatie voor de verantwoorde intensieve veehouderij. Een professionele onderneming met 9 verkoopkantoren in Europa die wereldwijd actief is in 40 landen. Door innovatie en flexibiliteit heeft Schippers altijd voorop gelopen in de sector.",
+		"businessCase": "Voor deze internationale onderneming was het noodzakelijk om de verkooporganisatie beter aan te laten sluiten op de backoffice processen. Er was behoefte bij de vertegenwoordigers aan realtime inzicht in voorraden, bestellingen, betalingen en mogelijkheden om orders tijdens het bezoek aan een klant in te kunnen leggen. De randvoorwaarden hierbij waren gebruikersvriendelijk, online, beheersbaarheid en gebruik maken van standaard SAP technologie.\n\n",
+		"solution": "Binnen enkele maanden is een gebruiksvriendelijke webapplicatie ontwikkeld welke vertegenwoordigers in staat stelt vanuit elke gewenste plaats bij de klant sales gerelateerde transacties uit te voeren en informatie uit SAP in te zien.",
+		"delivered": "Omdat het sales portaal 24/7 via het web benaderd kan worden is de administratieve doorlooptijd sterk verlaagd, zijn de fouten afgenomen en is de servicegraad aan de (internationale) klanten en de eigen medewerkers verhoogd.\nSchippers is nu in staat om haar eindklanten in elke ‘Europese’ uithoek binnen enkele dagen de juiste producten en diensten te leveren.\n\n",
+		"image": "resources/images/case-logos/logo-schippers.png",
+		"techniques": [ {
+			"text": "Abap"
+		}],
+		"categories": [{
+			"text": "Portaal"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "schippers",
+			"source": "resources/images/case-images/schippers.png"
+		}]
+	},{
+		"pageId": "bruynzeel.opleverapp",
+		"client": "Bruynzeel",
+		"name": "Oplever app",
+		"customer": "Bruynzeel Keukens bepaalt al meer dan 110 jaar het gezicht van de Nederlandse keuken. Er werken 600 medewerkers bij Bruynzeel Keukens. Bruynzeel Keukens heeft een unieke winkelketen met een eigen productiebedrijf en is daarnaast een actieve en sterke partner in de professionele markt.",
+		"businessCase": "Om te komen tot een gestructureerde, toekomst-vaste en bovenal beheersbare “mobile” oplossingen is er gevraagd om een architectuur op te stellen die richting geeft waarbinnen de mobiele ontsluiting in het IT landschap van Bruynzeel zal worden gerealiseerd.\n\n",
+		"solution": "Het proces betreft de oplevering van een keuken. De keuken is geïnstalleerd/de service is uitgevoerd en de monteur loopt met de klant door de verschillende componenten van de keuken heen om te bepalen of alles naar behoren wordt opgeleverd. Om deze werkzaamheden te kunnen uitvoeren heeft de monteur de beschikking over alle relevante data van de keuken.",
+		"delivered": "Voor het ondersteunen van het opleverproces van keukens is er voor de (service)monteurs een platform onafhankelijke applicatie gebouwd voor gebruik op een tablet.\n\n",
+		"image": "resources/images/case-logos/logo-bruynzeel.png",
+		"techniques": [ {
+			"text": "Mobile iOS"
+		}],
+		"categories": [{
+			"text": "Mobile"
+		}],
+		"attachments": [{
+			"type": "image",
+			"attachmentId": "bruynzeel1",
+			"source": "resources/images/case-images/bruynzeel1.png"
+		}]
+	}]
+}
